@@ -76,62 +76,11 @@
                                 <div class="main-menu">
                                     <nav id="mobile-menu">
                                         <ul>
-                                            <li class="active"><a href="index.html">Home+</a>
-                                                <ul class="sub_menu">
-                                                    <li><a href="index.html">Home 01</a></li>
-                                                    <li><a href="index-2.html">Home 02</a></li>
-                                                    <li class="sub_menu_li"><a href="index-3.html">Home 03</a>
-                                                        <ul>
-                                                            <li><a href="index.html">Home 01</a></li>
-                                                            <li><a href="index-2.html">Home 02</a></li>
-                                                            <li><a href="index-3.html">Home 03</a></li>
-                                                        </ul>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="about-us.html">About+</a></li>
-                                            <li><a href="services.html">Services+</a>
-                                                <ul class="sub_menu">
-                                                    <li><a href="services.html">Services</a></li>
-                                                    <li><a href="service-details.html">Service Details</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="blog.html">Blog+</a>
-                                                <ul class="sub_menu">
-                                                    <li><a href="blog.html">Blog 01</a></li>
-                                                    <li><a href="blog-2.html">Blog 02</a></li>
-                                                    <li><a href="blog-details.html">Blog Details</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="#">Pages+</a>
-                                                <ul class="sub_menu">
-                                                    <li><a href="working-process.html">Working Process</a></li>
-                                                    <li><a href="how-it-works.html">How it Works</a></li>
-                                                    <li class="sub_menu_li"><a href="doctors.html">Doctors</a>
-                                                        <ul>
-                                                            <li><a href="doctors.html">Doctors</a></li>
-                                                            <li><a href="doctors-profile.html">Doctors Profile</a></li>
-                                                        </ul>
-                                                    </li>
-                                                    <li class="sub_menu_li"><a href="services.html">Services</a>
-                                                        <ul>
-                                                            <li><a href="services.html">Services</a></li>
-                                                            <li><a href="service-details.html">Service Details</a></li>
-                                                        </ul>
-                                                    </li>
-                                                    <li class="sub_menu_li"><a href="blog.html">Blog</a>
-                                                        <ul>
-                                                            <li><a href="blog.html">Blog 01</a></li>
-                                                            <li><a href="blog-2.html">Blog 02</a></li>
-                                                            <li><a href="blog-details.html">Blog Details</a></li>
-                                                        </ul>
-                                                    </li>
-                                                    <li><a href="faqs.html">FAQS</a></li>
-                                                    <li><a href="gallery.html">Gallery</a></li>
-                                                    <li><a href="pricing.html">Pricing</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="contact.html">Contact</a></li>
+                                            <li><a href="index.html">INICIO</a></li>
+                                            <li><a href="nosotros.html">NOSOTROS</a></li>
+                                            <li><a href="servicios.html">SERVICIOS</a></li>
+                                            <li><a href="afiliate.html">AFÍLIATE AHORA</a></li>
+                                            <li><a href="contacto.html">CONTACTANOS</a></li> 
                                         </ul>
                                     </nav>
                                 </div>
