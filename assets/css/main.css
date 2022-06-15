@@ -7080,7 +7080,7 @@ i[class*=" flaticon-"]:before {
 ===| 18. Sidebar and Page title
 ===================================================*/
 .page_title__img-01 {
-  background: url(../img/background/bg-17.jpg);
+  background: url(../img/background/banner.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -7108,7 +7108,7 @@ i[class*=" flaticon-"]:before {
 }
 
 .page_title__img-05 {
-  background: url(../img/background/bg-21.jpg);
+  background: url(../img/background/banner.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;

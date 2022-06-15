@@ -1,33 +1,4 @@
-<!doctype html>
-<html class="no-js" lang="es">
 
-<head>
-    <!-- Required Meta Tags Start -->
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>CITAS MÉDICAS</title>
-    <meta name="description" content="">
-    <meta name="keywords" content="">
-    <meta name="author" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <!-- Required Meta Tags End -->
-    <!-- Favicon Tags Start -->
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/img/logo/logo-3.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/logo/logo-3.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/logo/logo-3.png">
-    <link rel="manifest" href="assets/favicons/site.webmanifest">
-    <link rel="mask-icon" href="assets/favicons/safari-pinned-tab.svg" color="#5bbad5">
-    <link rel="shortcut icon" href="assets/img/logo/logo-3.png">
-    <meta name="msapplication-TileColor" content="#2b5797">
-    <meta name="msapplication-config" content="assets/favicons/browserconfig.xml">
-    <meta name="theme-color" content="#ffffff">
-    <!-- Favicon Tags End -->
-    <!-- CSS here -->
-    <link rel="stylesheet" href="assets/css/bootstrap.css">
-    <link rel="stylesheet" href="assets/css/main.css">
-</head>
-
-<body>
     <?php
     include('header.php');
     ?>

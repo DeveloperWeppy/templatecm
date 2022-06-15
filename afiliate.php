@@ -34,7 +34,25 @@
     <?php
     include('header.php');
     ?>
-    
+    <section class="page_title page_title__img-05">
+            <div class="page_title__padding">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="page_title__content">
+                                <h1>Afiliate</h1>
+                                <div class="page_title__bread-crumb">
+                                    <ul>
+                                        <li><a href="index.php">Inicio</a></li>
+                                        <li><a href="afiliate.php">Afiliate</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
 
 
     <?php

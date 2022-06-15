@@ -36,62 +36,21 @@
     <?php
     include('header.php');
     ?>
-    <!-- Extra Info Start -->
-    <div class="extra_info d-none d-lg-block">
-        <div class="extra_info--icon">
-            <button class="extra_info_close"><i class="ti-close"></i></button>
-        </div>
-        <div class="extra_info--content text-center">
-            <div class="extra_info--title">
-                <h3>Let's be Together</h3>
-            </div>
-            <div class="extra_info--thumb">
-                <img class="img_100" src="assets/img/about/about-01.jpg" alt="Extra info thumb">
-            </div>
-            <div class="extra_info--address">
-                <ul>
-                    <li>
-                        <i class="fas fa-map-marker-alt"></i>
-                        <span>1547 Alfred Drive, New York</span>
-                    </li>
-                    <li>
-                        <i class="fas fa-phone-alt"></i>
-                        <span>+718-219-9927</span>
-                    </li>
-                    <li>
-                        <i class="fas fa-envelope-open-text"></i>
-                        <span>example@gmail.com</span>
-                    </li>
-                </ul>
-            </div>
-            <div class="extra_info--social mt-30">
-                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                <a href="#"><i class="fab fa-twitter"></i></a>
-                <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                <a href="#"><i class="fab fa-instagram"></i></a>
-                <a href="#"><i class="fab fa-youtube"></i></a>
-            </div>
-        </div>
-    </div>
-    <!-- Extra Info End -->
-    <!-- |=====|| Header End ||=================| -->
-    <!-- |==========================================| -->
-
-
+    
     <main>
         <!-- |==========================================| -->
         <!-- |=====|| Page Title Start ||===============| -->
-        <section class="page_title page_title__img-01">
+        <section class="page_title page_title__img-05">
             <div class="page_title__padding">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
                             <div class="page_title__content">
-                                <h1>Contact Us</h1>
+                                <h1>Contacto</h1>
                                 <div class="page_title__bread-crumb">
                                     <ul>
-                                        <li><a href="index.html">Home</a></li>
-                                        <li><a href="contact.html">Contact Us</a></li>
+                                        <li><a href="index.php">Inicio</a></li>
+                                        <li><a href="contacto.php">Contacto</a></li>
                                     </ul>
                                 </div>
                             </div>
