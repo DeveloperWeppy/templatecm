@@ -1,11 +1,11 @@
 <!doctype html>
-<html class="no-js" lang="zxx">
+<html class="no-js" lang="es">
 
 <head>
     <!-- Required Meta Tags Start -->
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>HounLare - Medical & Health Care Services HTML5 Template</title>
+    <title>Servicios - citasmédcas</title>
     <meta name="description" content="">
     <meta name="keywords" content="">
     <meta name="author" content="">
@@ -34,215 +34,9 @@
     <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
   <![endif]-->
 
-    <!-- Add your site or application content here -->
-
-    <!-- |==========================================| -->
-    <!-- |=====|| Preloader Start ||===============| -->
-    <div class="preloader">
-        <div class="preloader__content">
-            <div class="preloader__wrapper">
-                <div class="preloader__spinner"></div>
-                <div class="preloader__txt">
-                    <span data-text-preloader="H" class="letters-loading">H</span>
-                    <span data-text-preloader="O" class="letters-loading">O</span>
-                    <span data-text-preloader="U" class="letters-loading">U</span>
-                    <span data-text-preloader="N" class="letters-loading">N</span>
-                    <span data-text-preloader="L" class="letters-loading">L</span>
-                    <span data-text-preloader="A" class="letters-loading">A</span>
-                    <span data-text-preloader="R" class="letters-loading">R</span>
-                    <span data-text-preloader="E" class="letters-loading">E</span>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- |=====|| Preloader End ||=================| -->
-    <!-- |==========================================| -->
-
-
-    <!-- |==========================================| -->
-    <!-- |=====|| Header Start ||===============| -->
-    <header class="header home1">
-        <!-- Header Top Start -->
-        <div class="header__top1">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-5">
-                        <div class="header__top1--left text-center text-lg-left">
-                            <i class="fas fa-map-marker-alt"></i>
-                            <span>105 Marchun Road, NewYork, USA.</span>
-                        </div>
-                    </div>
-                    <div class="col-lg-7">
-                        <div class="header__top1--right text-center text-lg-right">
-                            <div class="header__top1--email">
-                                <i class="fas fa-envelope"></i>
-                                <span>example@gmail.com</span>
-                            </div>
-                            <div class="header__top1--social">
-                                <a href="#"><i class="fab fa-facebook-square"></i></a>
-                                <a href="#"><i class="fab fa-twitter-square"></i></a>
-                                <a href="#"><i class="fab fa-linkedin"></i></a>
-                            </div>
-                            <div class="header__top1--language">
-                                <ul class="language-ul">
-                                    <li>
-                                        <a href="#">
-                                            <img src="assets/img/png-icon/png-icon-01.png" alt="Image">
-                                            <span>English <i class="fas fa-chevron-down"></i></span>
-                                        </a>
-                                        <ul class="language-ul2">
-                                            <li>
-                                                <a href="#">
-                                                    <img src="assets/img/png-icon/png-icon-02.png" alt="Image">
-                                                    <span> Bangladesh</span>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="#">
-                                                    <img src="assets/img/png-icon/png-icon-04.png" alt="Image">
-                                                    <span> Australia</span>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="#">
-                                                    <img src="assets/img/png-icon/png-icon-03.png" alt="Image">
-                                                    <span> Germany</span>
-                                                </a>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Header Top End -->
-        <!-- Header Middle Start -->
-        <div class="header__middle1">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="header__logo">
-                            <a href="index.html"><img src="assets/img/logo/logo.png" alt="Logo"></a>
-                        </div>
-                    </div>
-                    <div class="col-lg-9 col-sm-6">
-                        <div class="header__middle1--right text-right">
-                            <div class="header__middle1--phone">
-                                <i class="fas fa-phone-alt"></i>
-                                <span>Phone: +5 (87) 86953-12</span>
-                            </div>
-                            <div class="header__middle1--clock">
-                                <i class="fas fa-clock"></i>
-                                <span>Mon-Sat (8am - 6pm)</span>
-                            </div>
-                            <div class="header__middle1--btn">
-                                <a href="contact.html" class="btn2">Appointment</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Header Middle End -->
-        <!-- Header Menu Start -->
-        <div class="header__menu">
-            <div class="header__menu-wrapper">
-                <div class="container">
-                    <div class="header__menu-outer">
-                        <div class="row">
-                            <div class="col-lg-12">
-                                <div class="header__side-nav f_right d-none d-lg-block">
-                                    <ul>
-                                        <li class="search_box_container">
-                                            <button class="search_btn button"><i class="fas fa-search"></i></button>
-                                            <div class="search_form">
-                                                <form action="#">
-                                                    <input type="text" placeholder="Search...">
-                                                    <button><i class="fas fa-search"></i></button>
-                                                </form>
-                                            </div>
-                                        </li>
-                                        <li class="extra_info_btn">
-                                            <button class="button">
-                                                <i class="fas fa-ellipsis-v"></i>
-                                            </button>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <div class="main-menu">
-                                    <nav id="mobile-menu">
-                                        <ul>
-                                            <li class="active"><a href="index.html">Home+</a>
-                                                <ul class="sub_menu">
-                                                    <li><a href="index.html">Home 01</a></li>
-                                                    <li><a href="index-2.html">Home 02</a></li>
-                                                    <li class="sub_menu_li"><a href="index-3.html">Home 03</a>
-                                                        <ul>
-                                                            <li><a href="index.html">Home 01</a></li>
-                                                            <li><a href="index-2.html">Home 02</a></li>
-                                                            <li><a href="index-3.html">Home 03</a></li>
-                                                        </ul>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="about-us.html">About+</a></li>
-                                            <li><a href="services.html">Services+</a>
-                                                <ul class="sub_menu">
-                                                    <li><a href="services.html">Services</a></li>
-                                                    <li><a href="service-details.html">Service Details</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="blog.html">Blog+</a>
-                                                <ul class="sub_menu">
-                                                    <li><a href="blog.html">Blog 01</a></li>
-                                                    <li><a href="blog-2.html">Blog 02</a></li>
-                                                    <li><a href="blog-details.html">Blog Details</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="#">Pages+</a>
-                                                <ul class="sub_menu">
-                                                    <li><a href="working-process.html">Working Process</a></li>
-                                                    <li><a href="how-it-works.html">How it Works</a></li>
-                                                    <li class="sub_menu_li"><a href="doctors.html">Doctors</a>
-                                                        <ul>
-                                                            <li><a href="doctors.html">Doctors</a></li>
-                                                            <li><a href="doctors-profile.html">Doctors Profile</a></li>
-                                                        </ul>
-                                                    </li>
-                                                    <li class="sub_menu_li"><a href="services.html">Services</a>
-                                                        <ul>
-                                                            <li><a href="services.html">Services</a></li>
-                                                            <li><a href="service-details.html">Service Details</a></li>
-                                                        </ul>
-                                                    </li>
-                                                    <li class="sub_menu_li"><a href="blog.html">Blog</a>
-                                                        <ul>
-                                                            <li><a href="blog.html">Blog 01</a></li>
-                                                            <li><a href="blog-2.html">Blog 02</a></li>
-                                                            <li><a href="blog-details.html">Blog Details</a></li>
-                                                        </ul>
-                                                    </li>
-                                                    <li><a href="faqs.html">FAQS</a></li>
-                                                    <li><a href="gallery.html">Gallery</a></li>
-                                                    <li><a href="pricing.html">Pricing</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="contact.html">Contact</a></li>
-                                        </ul>
-                                    </nav>
-                                </div>
-                                <div class="mobile-menu"></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Header Menu End -->
-    </header>
+    <?php
+    include('header.php');
+    ?>
     <!-- Extra Info Start -->
     <div class="extra_info d-none d-lg-block">
         <div class="extra_info--icon">
@@ -344,8 +138,7 @@
                                         <p>We are line of Lorem Ipsum, Lorem ipsum dolor sit amet. comes from line in
                                             section.</p>
                                     </div>
-                                    <a href="#" class="btn6"> <span>View Details</span> <i
-                                            class="icofont-rounded-double-right"></i> </a>
+                                    <a href="#" class="btn6"> <span>View Details</span> <i class="icofont-rounded-double-right"></i> </a>
                                 </div>
                                 <div class="service1__item mb-30 text-center">
                                     <div class="service1__star">
@@ -359,8 +152,7 @@
                                         <p>We are line of Lorem Ipsum, Lorem ipsum dolor sit amet. comes from line in
                                             section.</p>
                                     </div>
-                                    <a href="#" class="btn6"> <span>View Details</span> <i
-                                            class="icofont-rounded-double-right"></i> </a>
+                                    <a href="#" class="btn6"> <span>View Details</span> <i class="icofont-rounded-double-right"></i> </a>
                                 </div>
                                 <div class="service1__item mb-30 text-center">
                                     <div class="service1__star">
@@ -374,8 +166,7 @@
                                         <p>We are line of Lorem Ipsum, Lorem ipsum dolor sit amet. comes from line in
                                             section.</p>
                                     </div>
-                                    <a href="#" class="btn6"> <span>View Details</span> <i
-                                            class="icofont-rounded-double-right"></i> </a>
+                                    <a href="#" class="btn6"> <span>View Details</span> <i class="icofont-rounded-double-right"></i> </a>
                                 </div>
                                 <div class="service1__item mb-30 text-center">
                                     <div class="service1__star">
@@ -389,8 +180,7 @@
                                         <p>We are line of Lorem Ipsum, Lorem ipsum dolor sit amet. comes from line in
                                             section.</p>
                                     </div>
-                                    <a href="#" class="btn6"> <span>View Details</span> <i
-                                            class="icofont-rounded-double-right"></i> </a>
+                                    <a href="#" class="btn6"> <span>View Details</span> <i class="icofont-rounded-double-right"></i> </a>
                                 </div>
                             </div>
                         </div>
@@ -432,8 +222,7 @@
                             <div class="service3__item mb-30">
                                 <div class="service3__thumb">
                                     <img src="assets/img/service/service-10.jpg" alt="Service">
-                                    <a data-fancybox="gallery_3" data-caption="My caption"
-                                        href="assets/img/service/service-10.jpg"><i class="icofont-plus"></i></a>
+                                    <a data-fancybox="gallery_3" data-caption="My caption" href="assets/img/service/service-10.jpg"><i class="icofont-plus"></i></a>
                                 </div>
                                 <div class="service3__content text-center">
                                     <h3><a href="#">Dental Care</a></h3>
@@ -445,8 +234,7 @@
                             <div class="service3__item mb-30">
                                 <div class="service3__thumb">
                                     <img src="assets/img/service/service-09.jpg" alt="Service">
-                                    <a data-fancybox="gallery_3" data-caption="My caption"
-                                        href="assets/img/service/service-09.jpg"><i class="icofont-plus"></i></a>
+                                    <a data-fancybox="gallery_3" data-caption="My caption" href="assets/img/service/service-09.jpg"><i class="icofont-plus"></i></a>
                                 </div>
                                 <div class="service3__content text-center">
                                     <h3><a href="#">Old Care</a></h3>
@@ -458,8 +246,7 @@
                             <div class="service3__item mb-30">
                                 <div class="service3__thumb">
                                     <img src="assets/img/service/service-08.jpg" alt="Service">
-                                    <a data-fancybox="gallery_3" data-caption="My caption"
-                                        href="assets/img/service/service-08.jpg"><i class="icofont-plus"></i></a>
+                                    <a data-fancybox="gallery_3" data-caption="My caption" href="assets/img/service/service-08.jpg"><i class="icofont-plus"></i></a>
                                 </div>
                                 <div class="service3__content text-center">
                                     <h3><a href="#">Dental Care</a></h3>
@@ -471,8 +258,7 @@
                             <div class="service3__item mb-30">
                                 <div class="service3__thumb">
                                     <img src="assets/img/service/service-07.jpg" alt="Service">
-                                    <a data-fancybox="gallery_3" data-caption="My caption"
-                                        href="assets/img/service/service-07.jpg"><i class="icofont-plus"></i></a>
+                                    <a data-fancybox="gallery_3" data-caption="My caption" href="assets/img/service/service-07.jpg"><i class="icofont-plus"></i></a>
                                 </div>
                                 <div class="service3__content text-center">
                                     <h3><a href="#">Home Care</a></h3>
@@ -484,8 +270,7 @@
                             <div class="service3__item mb-30">
                                 <div class="service3__thumb">
                                     <img src="assets/img/service/service-06.jpg" alt="Service">
-                                    <a data-fancybox="gallery_3" data-caption="My caption"
-                                        href="assets/img/service/service-06.jpg"><i class="icofont-plus"></i></a>
+                                    <a data-fancybox="gallery_3" data-caption="My caption" href="assets/img/service/service-06.jpg"><i class="icofont-plus"></i></a>
                                 </div>
                                 <div class="service3__content text-center">
                                     <h3><a href="#">Baby Care</a></h3>
@@ -497,8 +282,7 @@
                             <div class="service3__item mb-30">
                                 <div class="service3__thumb">
                                     <img src="assets/img/service/service-05.jpg" alt="Service">
-                                    <a data-fancybox="gallery_3" data-caption="My caption"
-                                        href="assets/img/service/service-05.jpg"><i class="icofont-plus"></i></a>
+                                    <a data-fancybox="gallery_3" data-caption="My caption" href="assets/img/service/service-05.jpg"><i class="icofont-plus"></i></a>
                                 </div>
                                 <div class="service3__content text-center">
                                     <h3><a href="#">Dental Care</a></h3>
@@ -510,8 +294,7 @@
                     <div class="row">
                         <div class="col-md-12 text-center">
                             <div class="service3__bottom-text">
-                                <p class="m-0">Join Our conference & events know more us also be careful myself <a
-                                        href="contact.html">Join us here</a>.</p>
+                                <p class="m-0">Join Our conference & events know more us also be careful myself <a href="contact.html">Join us here</a>.</p>
                             </div>
                         </div>
                     </div>
@@ -576,16 +359,14 @@
                                         <div class="card">
                                             <div class="card-header" id="heading_01">
                                                 <h5>
-                                                    <a href="#" data-toggle="collapse" data-target="#collapse_01"
-                                                        aria-expanded="true" aria-controls="collapse_01">
+                                                    <a href="#" data-toggle="collapse" data-target="#collapse_01" aria-expanded="true" aria-controls="collapse_01">
                                                         <span>01.</span> How long dose take my check-up test? I’m 56
                                                         years.
                                                         <i class="ti-angle-down"></i>
                                                     </a>
                                                 </h5>
                                             </div>
-                                            <div id="collapse_01" class="collapse show" aria-labelledby="heading_01"
-                                                data-parent="#accordionExample">
+                                            <div id="collapse_01" class="collapse show" aria-labelledby="heading_01" data-parent="#accordionExample">
                                                 <div class="card-body">
                                                     <p>Usually we try to do as much as posible so that our patients does
                                                         not have any difficults and provides prompt treatment.</p>
@@ -595,16 +376,13 @@
                                         <div class="card">
                                             <div class="card-header" id="heading_02">
                                                 <h5>
-                                                    <a href="#" class="collapsed" data-toggle="collapse"
-                                                        data-target="#collapse_02" aria-expanded="false"
-                                                        aria-controls="collapse_02">
+                                                    <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse_02" aria-expanded="false" aria-controls="collapse_02">
                                                         <span>02.</span> How many people will be in the calbin workshop?
                                                         <i class="ti-angle-down"></i>
                                                     </a>
                                                 </h5>
                                             </div>
-                                            <div id="collapse_02" class="collapse" aria-labelledby="heading_02"
-                                                data-parent="#accordionExample">
+                                            <div id="collapse_02" class="collapse" aria-labelledby="heading_02" data-parent="#accordionExample">
                                                 <div class="card-body">
                                                     <p>Usually we try to do as much as posible so that our patients does
                                                         not have any difficults and provides prompt treatment.</p>
@@ -614,16 +392,13 @@
                                         <div class="card">
                                             <div class="card-header" id="heading_03">
                                                 <h5>
-                                                    <a href="#" class="collapsed" data-toggle="collapse"
-                                                        data-target="#collapse_03" aria-expanded="false"
-                                                        aria-controls="collapse_03">
+                                                    <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse_03" aria-expanded="false" aria-controls="collapse_03">
                                                         <span>03.</span> What other workshop on the dates are available?
                                                         <i class="ti-angle-down"></i>
                                                     </a>
                                                 </h5>
                                             </div>
-                                            <div id="collapse_03" class="collapse" aria-labelledby="heading_03"
-                                                data-parent="#accordionExample">
+                                            <div id="collapse_03" class="collapse" aria-labelledby="heading_03" data-parent="#accordionExample">
                                                 <div class="card-body">
                                                     <p>Usually we try to do as much as posible so that our patients does
                                                         not have any difficults and provides prompt treatment.</p>
@@ -633,16 +408,13 @@
                                         <div class="card">
                                             <div class="card-header" id="heading_04">
                                                 <h5>
-                                                    <a href="#" class="collapsed" data-toggle="collapse"
-                                                        data-target="#collapse_04" aria-expanded="false"
-                                                        aria-controls="collapse_04">
+                                                    <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse_04" aria-expanded="false" aria-controls="collapse_04">
                                                         <span>04.</span> Who do I contact for press related inquiries?
                                                         <i class="ti-angle-down"></i>
                                                     </a>
                                                 </h5>
                                             </div>
-                                            <div id="collapse_04" class="collapse" aria-labelledby="heading_04"
-                                                data-parent="#accordionExample">
+                                            <div id="collapse_04" class="collapse" aria-labelledby="heading_04" data-parent="#accordionExample">
                                                 <div class="card-body">
                                                     <p>Usually we try to do as much as posible so that our patients does
                                                         not have any difficults and provides prompt treatment.</p>
@@ -652,8 +424,7 @@
                                     </div>
                                 </div>
                                 <!-- accordion -->
-                                <a href="#" class="btn3"> <span>More Information <span>Is Here</span></span> <i
-                                        class="icofont-rounded-double-right"></i> </a>
+                                <a href="#" class="btn3"> <span>More Information <span>Is Here</span></span> <i class="icofont-rounded-double-right"></i> </a>
                             </div>
                         </div>
                     </div>
@@ -718,97 +489,9 @@
         <!-- |==========================================| -->
     </main>
 
-
-    <!-- |==========================================| -->
-    <!-- |=====|| Footer Start ||===============| -->
-    <footer class="footer1">
-        <div class="footer1__top">
-            <div class="content_box_100_50">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-6 col-lg-3">
-                            <div class="footer1__item footer1__item--01 mb-50">
-                                <div class="footer1__item--logo">
-                                    <img src="assets/img/logo/logo-2.png" alt="Logo">
-                                </div>
-                                <ul>
-                                    <li><span>F1 456 Caron Town.</span></li>
-                                    <li><span>Office No 3456</span></li>
-                                    <li><span>info@example.com</span></li>
-                                    <li><span>234-5825852763</span></li>
-                                </ul>
-                                <div class="footer1__item--email">
-                                    <input placeholder="Email address" type="email" name="email">
-                                    <button type="submit"><i class="icofont-paper-plane"></i></button>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-3">
-                            <div class="footer1__item footer1__item--02 mb-50">
-                                <h3>Our Departments.</h3>
-                                <ul>
-                                    <li><a href="#">Hounlare & intensive care</a></li>
-                                    <li><a href="#">Home Care</a></li>
-                                    <li><a href="#">Caregivers</a></li>
-                                    <li><a href="#">Diagnosis & Investigation</a></li>
-                                    <li><a href="#">Medical & Surgical</a></li>
-                                    <li><a href="#">Mental Health</a></li>
-                                    <li><a href="#">Specialized Support Service</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-3">
-                            <nav>
-                                <div class="footer1__item footer1__item--03 mb-50">
-                                    <h3>Helpful Links.</h3>
-                                    <ul>
-                                        <li><a href="#">Who We Are</a></li>
-                                        <li><a href="#">Our Team Mission History</a></li>
-                                        <li><a href="#">Awards since 1990 - 2020</a></li>
-                                        <li><a href="#">Experience Purpose</a></li>
-                                        <li><a href="#">Success Story</a></li>
-                                        <li><a href="#">Specialized Support</a></li>
-                                    </ul>
-                                </div>
-                            </nav>
-                        </div>
-                        <div class="col-md-6 col-lg-3">
-                            <div class="footer1__item footer1__item--04 mb-50">
-                                <h3>Instagram.</h3>
-                                <div class="footer1__item--instagram">
-                                    <a href="#"><img src="assets/img/background/bg-06.jpg" alt="Image"></a>
-                                    <a href="#"><img src="assets/img/background/bg-07.jpg" alt="Image"></a>
-                                    <a href="#"><img src="assets/img/background/bg-08.jpg" alt="Image"></a>
-                                    <a href="#"><img src="assets/img/background/bg-09.jpg" alt="Image"></a>
-                                    <a href="#"><img src="assets/img/background/bg-10.jpg" alt="Image"></a>
-                                    <a href="#"><img src="assets/img/background/bg-11.jpg" alt="Image"></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="footer1__bottom">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-6">
-                        <div class="footer1__social text-center text-lg-left">
-                            <a href="#"><i class="fab fa-facebook-f"></i></a>
-                            <a href="#"><i class="fab fa-twitter"></i></a>
-                            <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                            <a href="#"><i class="fab fa-instagram"></i></a>
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="footer1__copyright text-center text-lg-right">
-                            <p class="m-0">@ 2021 <a href="#">OilyTheme</a> all right reserved</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
+    <?php
+    include('footer.php');
+    ?>
     <!-- |=====|| Footer End ||=================| -->
     <!-- |==========================================| -->
 

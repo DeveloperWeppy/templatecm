@@ -1,6 +1,5 @@
-
 <!doctype html>
-<html class="no-js" lang="zxx">
+<html class="no-js" lang="es">
 
 <head>
     <!-- Required Meta Tags Start -->
@@ -29,9 +28,9 @@
 </head>
 
 <body>
-<?php
-include('header.php');
-?>
+    <?php
+    include('header.php');
+    ?>
     <!-- Extra Info Start -->
     <div class="extra_info d-none d-lg-block">
         <div class="extra_info--icon">
@@ -80,41 +79,32 @@ include('header.php');
         <section class="slider1">
             <div class="slider1__wrapper">
                 <div class="slider1__active owl-carousel owl-theme slider-section-dots">
-                    <div
-                        class="slider1__item slider1__height slider1__img-01 d-flex align-items-center justify-content-center">
+                    <div class="slider1__item slider1__height slider1__img-01 d-flex align-items-center justify-content-center">
                         <div class="container">
                             <div class="row">
                                 <div class="col-xl-7">
                                     <div class="slider1__content">
                                         <div class="mb-20 fix">
-                                            <h5 data-animation="fadeInUp" data-delay=".2s" data-duration=".4s"
-                                                class="animated fadeInUp">Medical Center.</h5>
+                                            <h5 data-animation="fadeInUp" data-delay=".2s" data-duration=".4s" class="animated fadeInUp">Medical Center.</h5>
                                         </div>
                                         <div class="mb-20 fix">
-                                            <h2 data-animation="fadeInUp" data-delay=".5s" data-duration=".4s"
-                                                class="animated fadeInUp">
+                                            <h2 data-animation="fadeInUp" data-delay=".5s" data-duration=".4s" class="animated fadeInUp">
                                                 Best <span>Medical &</span> <br class="d-none d-md-inline-block"> Health
                                                 Care Center.
                                             </h2>
                                         </div>
                                         <div class="fix mb-20">
-                                            <p data-animation="fadeInUp" data-delay=".7s" data-duration=".4s"
-                                                class="animated fadeInUp">
+                                            <p data-animation="fadeInUp" data-delay=".7s" data-duration=".4s" class="animated fadeInUp">
                                                 Pleasure, but because those who do not know how to pursue
                                                 <br class="d-none d-md-inline-block">
                                                 pleasure rationally extremely painful.
                                             </p>
                                         </div>
                                         <div class="fix pb-35">
-                                            <a data-animation="fadeInUp" data-delay=".4s" data-duration=".8s"
-                                                href="services.html"
-                                                class="btn3 d-inline-block animated fadeInUp mr-10">
+                                            <a data-animation="fadeInUp" data-delay=".4s" data-duration=".8s" href="services.html" class="btn3 d-inline-block animated fadeInUp mr-10">
                                                 <span>Learn More</span> <i class="icofont-rounded-double-right"></i>
                                             </a>
-                                            <a data-fancybox="gallery_1" data-caption="My caption"
-                                                href="https://youtu.be/8rPB4A3zDnQ" data-animation="fadeInUp"
-                                                data-delay=".5s" data-duration=".8s"
-                                                class="btn4 ml-25 animated fadeInUp d-none d-sm-inline-block">
+                                            <a data-fancybox="gallery_1" data-caption="My caption" href="https://youtu.be/8rPB4A3zDnQ" data-animation="fadeInUp" data-delay=".5s" data-duration=".8s" class="btn4 ml-25 animated fadeInUp d-none d-sm-inline-block">
                                                 <span>Watch
                                                     Video</span> <i class="far fa-play-circle"></i></a>
                                         </div>
@@ -123,41 +113,32 @@ include('header.php');
                             </div>
                         </div>
                     </div>
-                    <div
-                        class="slider1__item slider1__height slider1__img-02 d-flex align-items-center justify-content-center">
+                    <div class="slider1__item slider1__height slider1__img-02 d-flex align-items-center justify-content-center">
                         <div class="container">
                             <div class="row">
                                 <div class="col-xl-7">
                                     <div class="slider1__content">
                                         <div class="mb-20 fix">
-                                            <h5 data-animation="fadeInUp" data-delay=".2s" data-duration=".4s"
-                                                class="animated fadeInUp">Medical Center.</h5>
+                                            <h5 data-animation="fadeInUp" data-delay=".2s" data-duration=".4s" class="animated fadeInUp">Medical Center.</h5>
                                         </div>
                                         <div class="mb-20 fix">
-                                            <h2 data-animation="fadeInUp" data-delay=".5s" data-duration=".4s"
-                                                class="animated fadeInUp">
+                                            <h2 data-animation="fadeInUp" data-delay=".5s" data-duration=".4s" class="animated fadeInUp">
                                                 Best <span>Medical &</span> <br class="d-none d-md-inline-block"> Health
                                                 Care Center.
                                             </h2>
                                         </div>
                                         <div class="fix mb-20">
-                                            <p data-animation="fadeInUp" data-delay=".7s" data-duration=".4s"
-                                                class="animated fadeInUp">
+                                            <p data-animation="fadeInUp" data-delay=".7s" data-duration=".4s" class="animated fadeInUp">
                                                 Pleasure, but because those who do not know how to pursue
                                                 <br class="d-none d-md-inline-block">
                                                 pleasure rationally extremely painful.
                                             </p>
                                         </div>
                                         <div class="fix pb-35">
-                                            <a data-animation="fadeInUp" data-delay=".4s" data-duration=".8s"
-                                                href="services.html"
-                                                class="btn3 d-inline-block animated fadeInUp mr-10">
+                                            <a data-animation="fadeInUp" data-delay=".4s" data-duration=".8s" href="services.html" class="btn3 d-inline-block animated fadeInUp mr-10">
                                                 <span>Learn More</span> <i class="icofont-rounded-double-right"></i>
                                             </a>
-                                            <a data-fancybox="gallery_1" data-caption="My caption"
-                                                href="https://youtu.be/8rPB4A3zDnQ" data-animation="fadeInUp"
-                                                data-delay=".5s" data-duration=".8s"
-                                                class="btn4 ml-25 animated fadeInUp d-none d-sm-inline-block">
+                                            <a data-fancybox="gallery_1" data-caption="My caption" href="https://youtu.be/8rPB4A3zDnQ" data-animation="fadeInUp" data-delay=".5s" data-duration=".8s" class="btn4 ml-25 animated fadeInUp d-none d-sm-inline-block">
                                                 <span>Watch
                                                     Video</span> <i class="far fa-play-circle"></i></a>
                                         </div>
@@ -222,8 +203,7 @@ include('header.php');
                                         <div class="appointment1__item--thumb">
                                             <img src="assets/img/png-icon/png-icon-08.png" alt="PNG Image">
                                         </div>
-                                        <a href="services.html" class="btn3 d-inline-block"> <span>Send Us</span> <i
-                                                class="icofont-rounded-double-right"></i>
+                                        <a href="services.html" class="btn3 d-inline-block"> <span>Send Us</span> <i class="icofont-rounded-double-right"></i>
                                         </a>
                                     </div>
                                 </div>
@@ -249,8 +229,7 @@ include('header.php');
                                     <img src="assets/img/about/about-02.jpg" alt="About">
                                 </div>
                                 <div class="about1__left--thumb2">
-                                    <a data-fancybox="gallery_1" data-caption="Your caption will be here."
-                                        href="https://youtu.be/8rPB4A3zDnQ">
+                                    <a data-fancybox="gallery_1" data-caption="Your caption will be here." href="https://youtu.be/8rPB4A3zDnQ">
                                         <img src="assets/img/png-icon/png-icon-09.png" alt="About">
                                     </a>
                                 </div>
@@ -285,8 +264,7 @@ include('header.php');
                                             roots in a McClintock.</p>
                                     </div>
                                     <div class="about1__btn">
-                                        <a href="contact.html" class="btn3"> <span>Book Now</span> <i
-                                                class="icofont-rounded-double-right"></i> </a>
+                                        <a href="contact.html" class="btn3"> <span>Book Now</span> <i class="icofont-rounded-double-right"></i> </a>
                                         <a href="about-us.html" class="btn5 ml-35 d-none d-sm-inline-block">Learn
                                             More</a>
                                     </div>
@@ -476,8 +454,7 @@ include('header.php');
                                         <p>We are line of Lorem Ipsum, Lorem ipsum dolor sit amet. comes from line in
                                             section.</p>
                                     </div>
-                                    <a href="service-details.html" class="btn6"> <span>View Details</span> <i
-                                            class="icofont-rounded-double-right"></i> </a>
+                                    <a href="service-details.html" class="btn6"> <span>View Details</span> <i class="icofont-rounded-double-right"></i> </a>
                                 </div>
                                 <div class="service1__item mb-30 text-center">
                                     <div class="service1__star">
@@ -491,8 +468,7 @@ include('header.php');
                                         <p>We are line of Lorem Ipsum, Lorem ipsum dolor sit amet. comes from line in
                                             section.</p>
                                     </div>
-                                    <a href="service-details.html" class="btn6"> <span>View Details</span> <i
-                                            class="icofont-rounded-double-right"></i> </a>
+                                    <a href="service-details.html" class="btn6"> <span>View Details</span> <i class="icofont-rounded-double-right"></i> </a>
                                 </div>
                                 <div class="service1__item mb-30 text-center">
                                     <div class="service1__star">
@@ -506,8 +482,7 @@ include('header.php');
                                         <p>We are line of Lorem Ipsum, Lorem ipsum dolor sit amet. comes from line in
                                             section.</p>
                                     </div>
-                                    <a href="service-details.html" class="btn6"> <span>View Details</span> <i
-                                            class="icofont-rounded-double-right"></i> </a>
+                                    <a href="service-details.html" class="btn6"> <span>View Details</span> <i class="icofont-rounded-double-right"></i> </a>
                                 </div>
                                 <div class="service1__item mb-30 text-center">
                                     <div class="service1__star">
@@ -521,8 +496,7 @@ include('header.php');
                                         <p>We are line of Lorem Ipsum, Lorem ipsum dolor sit amet. comes from line in
                                             section.</p>
                                     </div>
-                                    <a href="service-details.html" class="btn6"> <span>View Details</span> <i
-                                            class="icofont-rounded-double-right"></i> </a>
+                                    <a href="service-details.html" class="btn6"> <span>View Details</span> <i class="icofont-rounded-double-right"></i> </a>
                                 </div>
                             </div>
                         </div>
@@ -638,7 +612,7 @@ include('header.php');
         </section>
         <!-- |=====|| Blog End ||=================| -->
         <!-- |==========================================| -->
-<!-- |==========================================| -->
+        <!-- |==========================================| -->
         <!-- |=====|| Client Start ||===============| -->
         <section class="client1">
             <h3 class="hidden">Client Section</h3>
@@ -715,20 +689,16 @@ include('header.php');
                                 <form id="contact-form" action="assets/php/mail.php" method="POST">
                                     <div class="row mb-20">
                                         <div class="col-xl-6">
-                                            <input class="form-control" type="text" name="name"
-                                                placeholder="Full name *" required>
+                                            <input class="form-control" type="text" name="name" placeholder="Full name *" required>
                                         </div>
                                         <div class="col-xl-6">
-                                            <input class="form-control" type="text" name="phone-number"
-                                                placeholder="Your phone *">
+                                            <input class="form-control" type="text" name="phone-number" placeholder="Your phone *">
                                         </div>
                                         <div class="col-xl-12">
-                                            <input class="form-control" type="text" name="subject"
-                                                placeholder="I’m interested in *">
+                                            <input class="form-control" type="text" name="subject" placeholder="I’m interested in *">
                                         </div>
                                         <div class="col-xl-12">
-                                            <input class="form-control" type="email" name="email"
-                                                placeholder="Your email *" required>
+                                            <input class="form-control" type="email" name="email" placeholder="Your email *" required>
                                         </div>
                                         <div class="col-xl-12">
                                             <button type="submit" class="btn8">Send Us</button>
@@ -745,8 +715,8 @@ include('header.php');
         <!-- |=====|| Contact End ||=================| -->
         <!-- |==========================================| -->
         <?php
-include('footer.php');
-?>
+        include('footer.php');
+        ?>
     </main>
 
     <!-- |==========================================| -->
