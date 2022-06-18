@@ -91,12 +91,12 @@
                                         </div>
                                         <div class="mb-20 fix">
                                             <h2 data-animation="fadeInUp" data-delay=".5s" data-duration=".4s" class="animated fadeInUp">
-                                            Un <span>Médico</span> <br class="d-none d-md-inline-block"> Listo Para Atenderte
+                                                Un <span>Médico</span> <br class="d-none d-md-inline-block"> Listo Para Atenderte
                                             </h2>
                                         </div>
                                         <div class="fix mb-20">
                                             <p data-animation="fadeInUp" data-delay=".7s" data-duration=".4s" class="animated fadeInUp">
-                                                Tenemos a tu dispocición todo un personal calificado que te 
+                                                Tenemos a tu dispocición todo un personal calificado que te
                                                 <br class="d-none d-md-inline-block">
                                                 ayudara a mejorar tu bienestar y salud.
                                             </p>
@@ -241,7 +241,7 @@
                         <div class="col-lg-7">
                             <div class="about1__wrapper">
                                 <div class="title1 mb-30">
-                                    <h3>Podras tener acceso a diferentes y mejores servicios;  <span>Al mejor precio siempre.</span></h3>
+                                    <h3>Podras tener acceso a diferentes y mejores servicios; <span>Al mejor precio siempre.</span></h3>
                                 </div>
                                 <div class="about1__content row">
                                     <p>Y ademas tendrás descuentos y precios especiales en diferentes categorías como: </p>
@@ -647,9 +647,8 @@
                                     </div>
                                 </div>
                                 <h3>Llamanos</h3>
-                                <h4>+273-649300</h4>
-                                <p class="m-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                                    tempor incididunt ut labore et dolore magna aliqua. cumsan lacus vel facilisis. </p>
+                                <h4>+57 318 372 27 11</h4>
+                                <p class="m-0">Los mejores especialistas, exámenes diagnósticos, equipos médicos y medicamentos con tarifas y descuentos preferenciales, para ti, tu familia y tu grupo de trabajo </p>
                             </div>
                         </div>
                         <div class="col-lg-7">
@@ -658,19 +657,19 @@
                                 <form id="contact-form" action="assets/php/mail.php" method="POST">
                                     <div class="row mb-20">
                                         <div class="col-xl-6">
-                                            <input class="form-control" type="text" name="name" placeholder="Full name *" required>
+                                            <input class="form-control" type="text" name="name" placeholder="Nombre *" required>
                                         </div>
                                         <div class="col-xl-6">
-                                            <input class="form-control" type="text" name="phone-number" placeholder="Your phone *">
+                                            <input class="form-control" type="text" name="phone-number" placeholder="Teléfono *">
                                         </div>
                                         <div class="col-xl-12">
-                                            <input class="form-control" type="text" name="subject" placeholder="I’m interested in *">
+                                            <input class="form-control" type="text" name="subject" placeholder="Interesado en *">
                                         </div>
                                         <div class="col-xl-12">
-                                            <input class="form-control" type="email" name="email" placeholder="Your email *" required>
+                                            <input class="form-control" type="email" name="email" placeholder="Correo *" required>
                                         </div>
                                         <div class="col-xl-12">
-                                            <button type="submit" class="btn8">Send Us</button>
+                                            <button type="submit" class="btn8">Enviar</button>
                                         </div>
                                     </div>
                                     <p class="form-message"></p>
