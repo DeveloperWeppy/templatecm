@@ -87,19 +87,18 @@
                                 <div class="col-xl-7">
                                     <div class="slider1__content">
                                         <div class="mb-20 fix">
-                                            <h5 data-animation="fadeInUp" data-delay=".2s" data-duration=".4s" class="animated fadeInUp">Medical Center.</h5>
+                                            <h5 data-animation="fadeInUp" data-delay=".2s" data-duration=".4s" class="animated fadeInUp">Citasmedicas.es</h5>
                                         </div>
                                         <div class="mb-20 fix">
                                             <h2 data-animation="fadeInUp" data-delay=".5s" data-duration=".4s" class="animated fadeInUp">
-                                                Best <span>Medical &</span> <br class="d-none d-md-inline-block"> Health
-                                                Care Center.
+                                            Un <span>Médico</span> <br class="d-none d-md-inline-block"> Listo Para Atenderte
                                             </h2>
                                         </div>
                                         <div class="fix mb-20">
                                             <p data-animation="fadeInUp" data-delay=".7s" data-duration=".4s" class="animated fadeInUp">
-                                                Pleasure, but because those who do not know how to pursue
+                                                Tenemos a tu dispocición todo un personal calificado que te 
                                                 <br class="d-none d-md-inline-block">
-                                                pleasure rationally extremely painful.
+                                                ayudara a mejorar tu bienestar y salud.
                                             </p>
                                         </div>
                                         <div class="fix pb-35">
@@ -121,19 +120,18 @@
                                 <div class="col-xl-7">
                                     <div class="slider1__content">
                                         <div class="mb-20 fix">
-                                            <h5 data-animation="fadeInUp" data-delay=".2s" data-duration=".4s" class="animated fadeInUp">Medical Center.</h5>
+                                            <h5 data-animation="fadeInUp" data-delay=".2s" data-duration=".4s" class="animated fadeInUp">Citasmedicas.es</h5>
                                         </div>
                                         <div class="mb-20 fix">
                                             <h2 data-animation="fadeInUp" data-delay=".5s" data-duration=".4s" class="animated fadeInUp">
-                                                Best <span>Medical &</span> <br class="d-none d-md-inline-block"> Health
-                                                Care Center.
+                                                Consulta <span>Médica</span> <br class="d-none d-md-inline-block"> En Casa
                                             </h2>
                                         </div>
                                         <div class="fix mb-20">
                                             <p data-animation="fadeInUp" data-delay=".7s" data-duration=".4s" class="animated fadeInUp">
-                                                Pleasure, but because those who do not know how to pursue
+                                                Proteger tu salud desde casa es lo mejor
                                                 <br class="d-none d-md-inline-block">
-                                                pleasure rationally extremely painful.
+                                                ¡Servicio médico a domicilio!
                                             </p>
                                         </div>
                                         <div class="fix pb-35">
@@ -243,32 +241,37 @@
                         <div class="col-lg-7">
                             <div class="about1__wrapper">
                                 <div class="title1 mb-30">
-                                    <h4>Acerca de citasmédicas.es</h4>
-                                    <h2>We’re lanced most <span>powerful treatment</span> system. They are making
-                                        beautifully.</h2>
+                                    <h3>Podras tener acceso a diferentes y mejores servicios;  <span>Al mejor precio siempre.</span></h3>
                                 </div>
-                                <div class="about1__content">
-                                    <p>Every patient getting best care from us. again is there anyone who of itself,
-                                        because it is pain, but because occasionally circumstance procure him some great
-                                        pleasure. </p>
-                                    <div class="about1__item mb-35 mt-25">
+                                <div class="about1__content row">
+                                    <p>Y ademas tendrás descuentos y precios especiales en diferentes categorías como: </p>
+                                    <div class="about1__item mb-65 col-md-6">
                                         <div class="about1__item--thumb about1__item--bg1">
                                             <img src="assets/img/png-icon/png-icon-10.png" alt="About">
                                         </div>
-                                        <p>Popular belief Lorem Ipsum is not simply random text. It has roots in a piece
-                                            of clasrs old Richard McClintock.</p>
+                                        <p>Salud</p>
                                     </div>
-                                    <div class="about1__item mb-65">
+                                    <div class="about1__item mb-65 col-md-6">
                                         <div class="about1__item--thumb about1__item--bg2">
                                             <img src="assets/img/png-icon/png-icon-11.png" alt="About">
                                         </div>
-                                        <p>Easy pament process belief Lorem Ipsum is not simply random text. It has
-                                            roots in a McClintock.</p>
+                                        <p>Cuidado personal</p>
+                                    </div>
+                                    <div class="about1__item mb-65 col-md-6">
+                                        <div class="about1__item--thumb about1__item--bg2">
+                                            <img src="assets/img/png-icon/png-icon-11.png" alt="About">
+                                        </div>
+                                        <p>Belleza</p>
+                                    </div>
+                                    <div class="about1__item mb-65 col-md-6">
+                                        <div class="about1__item--thumb about1__item--bg2">
+                                            <img src="assets/img/png-icon/png-icon-11.png" alt="About">
+                                        </div>
+                                        <p>Restaurantes</p>
                                     </div>
                                     <div class="about1__btn">
-                                        <a href="contact.html" class="btn3"> <span>Book Now</span> <i class="icofont-rounded-double-right"></i> </a>
-                                        <a href="about-us.html" class="btn5 ml-35 d-none d-sm-inline-block">Learn
-                                            More</a>
+                                        <a href="contact.html" class="btn3"> <span>SUSCRIBETE YA</span> <i class="icofont-rounded-double-right"></i> </a>
+                                        <a href="about-us.html" class="btn5 ml-35 d-none d-sm-inline-block">Ver más</a>
                                     </div>
                                 </div>
                             </div>
@@ -290,7 +293,7 @@
                         <div class="col-lg-10 offset-lg-1">
                             <div class="title2 mb-60 text-center">
                                 <h4>Planes</h4>
-                                <h2>Make life easier with comfortable pricing</h2>
+                                <h2>Empieza a vivir una mejor experiencia de salud</h2>
                             </div>
                         </div>
                     </div>
@@ -369,10 +372,8 @@
                     <div class="row">
                         <div class="col-lg-8 offset-lg-2">
                             <div class="title2 mb-55 text-center">
-                                <h4>Beneficios</h4>
-                                <h2>Take a look at our health</h2>
-                                <p>Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-                                </p>
+                                <h4>Tenemos</h4>
+                                <h2>Muchos beneficios para tí y tu familia</h2>
                             </div>
                         </div>
                     </div>
@@ -383,8 +384,7 @@
                                     <i class="flaticon-doctor"></i>
                                 </div>
                                 <div class="counter1__content">
-                                    <h3 class="counter">180</h3>
-                                    <p class="m-0">Total Doctors</p>
+                                    <h4 class="m-0">Atención priorizada</h4>
                                 </div>
                             </div>
                         </div>
@@ -394,8 +394,7 @@
                                     <i class="flaticon-ambulance"></i>
                                 </div>
                                 <div class="counter1__content">
-                                    <h3 class="counter">20</h3>
-                                    <p class="m-0">Ambulance</p>
+                                    <h4 class="m-0">Especialistas calificados</h4>
                                 </div>
                             </div>
                         </div>
@@ -405,8 +404,7 @@
                                     <i class="flaticon-patient"></i>
                                 </div>
                                 <div class="counter1__content">
-                                    <h3 class="counter">1080</h3>
-                                    <p class="m-0">Total Beds</p>
+                                    <h4 class="m-0">Sin trámites</h4>
                                 </div>
                             </div>
                         </div>
@@ -416,8 +414,7 @@
                                     <i class="flaticon-medical-report"></i>
                                 </div>
                                 <div class="counter1__content">
-                                    <h3 class="counter">1136</h3>
-                                    <p class="m-0">Total Patients</p>
+                                    <h4 class="m-0">Atención en Línea</h4>
                                 </div>
                             </div>
                         </div>
@@ -433,11 +430,8 @@
                     <div class="row">
                         <div class="col-lg-8 offset-lg-2">
                             <div class="title2 mb-45 text-center">
-                                <h4>Servicios</h4>
-                                <h2>HounLare professional services</h2>
-                                <p>Why HounLare services is best all time since 1990. desires to obtain of itself,
-                                    because it is pain,
-                                    but because occasionally circumstance procure him some great deals. </p>
+                                <h4>Los mejores</h4>
+                                <h2>Servicios estan aquí</h2>
                             </div>
                         </div>
                     </div>
@@ -452,11 +446,10 @@
                                         <img src="assets/img/png-icon/png-icon-12.png" alt="Image">
                                     </div>
                                     <div class="service1__content mb-40">
-                                        <h3>Primary Health Care</h3>
-                                        <p>We are line of Lorem Ipsum, Lorem ipsum dolor sit amet. comes from line in
-                                            section.</p>
+                                        <h3>MÉDICOS ESPECIALISTAS</h3>
+                                        <p>Aquí encuentras el servicio que necesitas</p>
                                     </div>
-                                    <a href="service-details.html" class="btn6"> <span>View Details</span> <i class="icofont-rounded-double-right"></i> </a>
+                                    <a href="service-details.html" class="btn6"> <span>Ver más</span> <i class="icofont-rounded-double-right"></i> </a>
                                 </div>
                                 <div class="service1__item mb-30 text-center">
                                     <div class="service1__star">
@@ -466,11 +459,10 @@
                                         <img src="assets/img/png-icon/png-icon-13.png" alt="Image">
                                     </div>
                                     <div class="service1__content mb-40">
-                                        <h3>Gynecological Clinic</h3>
-                                        <p>We are line of Lorem Ipsum, Lorem ipsum dolor sit amet. comes from line in
-                                            section.</p>
+                                        <h3>EXÁMENES DIAGNÓSTICOS</h3>
+                                        <p>Toma preferencial de muestras y radiografías</p>
                                     </div>
-                                    <a href="service-details.html" class="btn6"> <span>View Details</span> <i class="icofont-rounded-double-right"></i> </a>
+                                    <a href="service-details.html" class="btn6"> <span>Ver más</span> <i class="icofont-rounded-double-right"></i> </a>
                                 </div>
                                 <div class="service1__item mb-30 text-center">
                                     <div class="service1__star">
@@ -480,34 +472,11 @@
                                         <img src="assets/img/png-icon/png-icon-14.png" alt="Image">
                                     </div>
                                     <div class="service1__content mb-40">
-                                        <h3>Precise Diagnosis</h3>
-                                        <p>We are line of Lorem Ipsum, Lorem ipsum dolor sit amet. comes from line in
-                                            section.</p>
+                                        <h3>ATENCIÓN MÉDICA INMEDIATA</h3>
+                                        <p>Cobertura en toda la ciudad de Cúcuta</p>
                                     </div>
-                                    <a href="service-details.html" class="btn6"> <span>View Details</span> <i class="icofont-rounded-double-right"></i> </a>
+                                    <a href="service-details.html" class="btn6"> <span>Ver más</span> <i class="icofont-rounded-double-right"></i> </a>
                                 </div>
-                                <div class="service1__item mb-30 text-center">
-                                    <div class="service1__star">
-                                        <i class="far fa-star"></i>
-                                    </div>
-                                    <div class="service1__thumb">
-                                        <img src="assets/img/png-icon/png-icon-13.png" alt="Image">
-                                    </div>
-                                    <div class="service1__content mb-40">
-                                        <h3>Cardiac Clinic</h3>
-                                        <p>We are line of Lorem Ipsum, Lorem ipsum dolor sit amet. comes from line in
-                                            section.</p>
-                                    </div>
-                                    <a href="service-details.html" class="btn6"> <span>View Details</span> <i class="icofont-rounded-double-right"></i> </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-12 text-center">
-                            <div class="service1__bottom-text">
-                                <p>Join Our conference & events know more us also be careful myself <a href="#">Join us
-                                        here</a></p>
                             </div>
                         </div>
                     </div>
@@ -522,10 +491,8 @@
                     <div class="row">
                         <div class="col-lg-8 offset-lg-2">
                             <div class="title2 text-center">
-                                <h4>Blog</h4>
-                                <h2>Noticias & Blog</h2>
-                                <p>We are the best medical services provider in the Worldipsum dolor sit amet,
-                                    consectetur adipiscing elit, sed do eiudolore magnaveniam</p>
+                                <h2>Nuestro blog</h2>
+                                <p>Podras encontrar información importante para tu salud y la de tu familia</p>
                             </div>
                         </div>
                     </div>
