@@ -430,8 +430,7 @@
                     <div class="row">
                         <div class="col-lg-8 offset-lg-2">
                             <div class="title2 mb-45 text-center">
-                                <h4>Los mejores</h4>
-                                <h2>Servicios estan aquí</h2>
+                                <h2>Tendras acceso a</h2>
                             </div>
                         </div>
                     </div>
@@ -592,37 +591,57 @@
                             <div class="client1__active owl-carousel">
                                 <div class="client1__item d-flex justify-content-center align-items-center">
                                     <div class="client1__thumb">
-                                        <a href="#"><img src="assets/img/client/client-01.png" alt="Client"></a>
+                                        <a href="#"><img src="assets/img/client/c1.png" alt="Client"></a>
                                     </div>
                                 </div>
                                 <div class="client1__item d-flex justify-content-center align-items-center">
                                     <div class="client1__thumb">
-                                        <a href="#"><img src="assets/img/client/client-02.png" alt="Client"></a>
+                                        <a href="#"><img src="assets/img/client/c2.png" alt="Client"></a>
                                     </div>
                                 </div>
                                 <div class="client1__item d-flex justify-content-center align-items-center">
                                     <div class="client1__thumb">
-                                        <a href="#"><img src="assets/img/client/client-03.png" alt="Client"></a>
+                                        <a href="#"><img src="assets/img/client/c3.png" alt="Client"></a>
                                     </div>
                                 </div>
                                 <div class="client1__item d-flex justify-content-center align-items-center">
                                     <div class="client1__thumb">
-                                        <a href="#"><img src="assets/img/client/client-04.png" alt="Client"></a>
+                                        <a href="#"><img src="assets/img/client/c4.png" alt="Client"></a>
                                     </div>
                                 </div>
                                 <div class="client1__item d-flex justify-content-center align-items-center">
                                     <div class="client1__thumb">
-                                        <a href="#"><img src="assets/img/client/client-05.png" alt="Client"></a>
+                                        <a href="#"><img src="assets/img/client/c5.png" alt="Client"></a>
                                     </div>
                                 </div>
                                 <div class="client1__item d-flex justify-content-center align-items-center">
                                     <div class="client1__thumb">
-                                        <a href="#"><img src="assets/img/client/client-02.png" alt="Client"></a>
+                                        <a href="#"><img src="assets/img/client/c6.png" alt="Client"></a>
                                     </div>
                                 </div>
                                 <div class="client1__item d-flex justify-content-center align-items-center">
                                     <div class="client1__thumb">
-                                        <a href="#"><img src="assets/img/client/client-04.png" alt="Client"></a>
+                                        <a href="#"><img src="assets/img/client/c7.png" alt="Client"></a>
+                                    </div>
+                                </div>
+                                <div class="client1__item d-flex justify-content-center align-items-center">
+                                    <div class="client1__thumb">
+                                        <a href="#"><img src="assets/img/client/c8.png" alt="Client"></a>
+                                    </div>
+                                </div>
+                                <div class="client1__item d-flex justify-content-center align-items-center">
+                                    <div class="client1__thumb">
+                                        <a href="#"><img src="assets/img/client/c9.png" alt="Client"></a>
+                                    </div>
+                                </div>
+                                <div class="client1__item d-flex justify-content-center align-items-center">
+                                    <div class="client1__thumb">
+                                        <a href="#"><img src="assets/img/client/c10.png" alt="Client"></a>
+                                    </div>
+                                </div>
+                                <div class="client1__item d-flex justify-content-center align-items-center">
+                                    <div class="client1__thumb">
+                                        <a href="#"><img src="assets/img/client/c11.png" alt="Client"></a>
                                     </div>
                                 </div>
                             </div>
