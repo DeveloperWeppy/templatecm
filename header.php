@@ -32,14 +32,14 @@
             <div class="row">
                 <div class="col-lg-3 col-sm-6">
                     <div class="header__logo">
-                        <a href="index.html"><img src="assets/img/logo/logo.png" alt="Logo"></a>
+                        <a href="index.php"><img src="assets/img/logo/logo.png" alt="Logo"></a>
                     </div>
                 </div>
                 <div class="col-lg-9 col-sm-6">
                     <div class="header__middle1--right text-right">
 
                         <div class="header__middle1--btn">
-                            <a href="contact.html" class="btn2">SUSCRIBIRSE</a>
+                            <a href="contacto.php" class="btn2">SUSCRIBIRSE</a>
                         </div>
                     </div>
                 </div>

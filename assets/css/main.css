@@ -9109,7 +9109,10 @@ i[class*=" flaticon-"]:before {
 .pricing1 {
   background: #eff6f6;
 }
-
+.blog1__top {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
 .pricing1__row {
   -webkit-box-shadow: 0px 12px 24.3px 2.7px rgba(238, 238, 238, 0.78);
   box-shadow: 0px 12px 24.3px 2.7px rgba(238, 238, 238, 0.78);

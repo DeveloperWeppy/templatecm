@@ -18,11 +18,11 @@
                                 <div class="footer1__item footer1__item--03 mb-50">
                                     <h3>Conócenos</h3>
                                     <ul>
-                                        <li><a href="#">Inicio</a></li>
-                                        <li><a href="#">Nosotros</a></li>
-                                        <li><a href="#">Servicios</a></li>
-                                        <li><a href="#">Afíliate ahora</a></li>
-                                        <li><a href="#">Contáctanos</a></li>
+                                        <li><a href="index.php">Inicio</a></li>
+                                        <li><a href="nosotros.php">Nosotros</a></li>
+                                        <li><a href="servicios.php">Servicios</a></li>
+                                        <li><a href="afiliate.php">Afíliate ahora</a></li>
+                                        <li><a href="contacto.php">Contáctanos</a></li>
                                     </ul>
                                 </div>
                             </nav>

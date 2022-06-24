@@ -34,47 +34,6 @@
     include('header.php');
     ?>
     <!-- Extra Info Start -->
-    <div class="extra_info d-none d-lg-block">
-        <div class="extra_info--icon">
-            <button class="extra_info_close"><i class="ti-close"></i></button>
-        </div>
-        <div class="extra_info--content text-center">
-            <div class="extra_info--title">
-                <h3>Let's be Together</h3>
-            </div>
-            <div class="extra_info--thumb">
-                <img class="img_100" src="assets/img/about/about-01.jpg" alt="Extra info thumb">
-            </div>
-            <div class="extra_info--address">
-                <ul>
-                    <li>
-                        <i class="fas fa-map-marker-alt"></i>
-                        <span>1547 Alfred Drive, New York</span>
-                    </li>
-                    <li>
-                        <i class="fas fa-phone-alt"></i>
-                        <span>+718-219-9927</span>
-                    </li>
-                    <li>
-                        <i class="fas fa-envelope-open-text"></i>
-                        <span>example@gmail.com</span>
-                    </li>
-                </ul>
-            </div>
-            <div class="extra_info--social mt-30">
-                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                <a href="#"><i class="fab fa-twitter"></i></a>
-                <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                <a href="#"><i class="fab fa-instagram"></i></a>
-                <a href="#"><i class="fab fa-youtube"></i></a>
-            </div>
-        </div>
-    </div>
-    <!-- Extra Info End -->
-    <!-- |=====|| Header End ||=================| -->
-    <!-- |==========================================| -->
-
-
     <main>
         <!-- |==========================================| -->
         <!-- |=====|| Slider Start ||===============| -->
@@ -103,11 +62,10 @@
                                         </div>
                                         <div class="fix pb-35">
                                             <a data-animation="fadeInUp" data-delay=".4s" data-duration=".8s" href="services.html" class="btn3 d-inline-block animated fadeInUp mr-10">
-                                                <span>Learn More</span> <i class="icofont-rounded-double-right"></i>
+                                                <span>Ver más</span> <i class="icofont-rounded-double-right"></i>
                                             </a>
                                             <a data-fancybox="gallery_1" data-caption="My caption" href="https://youtu.be/8rPB4A3zDnQ" data-animation="fadeInUp" data-delay=".5s" data-duration=".8s" class="btn4 ml-25 animated fadeInUp d-none d-sm-inline-block">
-                                                <span>Watch
-                                                    Video</span> <i class="far fa-play-circle"></i></a>
+                                                <span>Ver video</span> <i class="far fa-play-circle"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -136,10 +94,10 @@
                                         </div>
                                         <div class="fix pb-35">
                                             <a data-animation="fadeInUp" data-delay=".4s" data-duration=".8s" href="services.html" class="btn3 d-inline-block animated fadeInUp mr-10">
-                                                <span>Learn More</span> <i class="icofont-rounded-double-right"></i>
+                                                <span>Ver más</span> <i class="icofont-rounded-double-right"></i>
                                             </a>
                                             <a data-fancybox="gallery_1" data-caption="My caption" href="https://youtu.be/8rPB4A3zDnQ" data-animation="fadeInUp" data-delay=".5s" data-duration=".8s" class="btn4 ml-25 animated fadeInUp d-none d-sm-inline-block">
-                                                <span>Watch
+                                                <span>Ver
                                                     Video</span> <i class="far fa-play-circle"></i></a>
                                         </div>
                                     </div>
@@ -168,7 +126,7 @@
                                             <img src="assets/img/png-icon/png-icon-06.png" alt="PNG Image">
                                         </div>
                                         <div class="appointment1__item--content">
-                                            <h4>Your Location</h4>
+                                            <h4>Ubicación</h4>
                                             <select>
                                                 <option data-display="Select Your Location">Select Your Location
                                                 </option>
@@ -187,7 +145,7 @@
                                             <img src="assets/img/png-icon/png-icon-07.png" alt="PNG Image">
                                         </div>
                                         <div class="appointment1__item--content">
-                                            <h4>Select a Services</h4>
+                                            <h4>Servicio</h4>
                                             <select>
                                                 <option data-display="Choose a Services">Choose a Services</option>
                                                 <option value="1">Old Advance Care</option>
@@ -203,7 +161,7 @@
                                         <div class="appointment1__item--thumb">
                                             <img src="assets/img/png-icon/png-icon-08.png" alt="PNG Image">
                                         </div>
-                                        <a href="services.html" class="btn3 d-inline-block"> <span>Send Us</span> <i class="icofont-rounded-double-right"></i>
+                                        <a href="servicios.php" class="btn3 d-inline-block"> <span>Consultar</span> <i class="icofont-rounded-double-right"></i>
                                         </a>
                                     </div>
                                 </div>
@@ -270,8 +228,8 @@
                                         <p>Restaurantes</p>
                                     </div>
                                     <div class="about1__btn">
-                                        <a href="contact.html" class="btn3"> <span>SUSCRIBETE YA</span> <i class="icofont-rounded-double-right"></i> </a>
-                                        <a href="about-us.html" class="btn5 ml-35 d-none d-sm-inline-block">Ver más</a>
+                                        <a href="contacto.php" class="btn3"> <span>SUSCRIBETE YA</span> <i class="icofont-rounded-double-right"></i> </a>
+                                        <a href="nosotros.php" class="btn5 ml-35 d-none d-sm-inline-block">Ver más</a>
                                     </div>
                                 </div>
                             </div>
@@ -448,7 +406,7 @@
                                         <h3>MÉDICOS ESPECIALISTAS</h3>
                                         <p>Aquí encuentras el servicio que necesitas</p>
                                     </div>
-                                    <a href="service-details.html" class="btn6"> <span>Ver más</span> <i class="icofont-rounded-double-right"></i> </a>
+                                    <a href="servicios.php" class="btn6"> <span>Ver más</span> <i class="icofont-rounded-double-right"></i> </a>
                                 </div>
                                 <div class="service1__item mb-30 text-center">
                                     <div class="service1__star">
@@ -461,7 +419,7 @@
                                         <h3>EXÁMENES DIAGNÓSTICOS</h3>
                                         <p>Toma preferencial de muestras y radiografías</p>
                                     </div>
-                                    <a href="service-details.html" class="btn6"> <span>Ver más</span> <i class="icofont-rounded-double-right"></i> </a>
+                                    <a href="servicios.php" class="btn6"> <span>Ver más</span> <i class="icofont-rounded-double-right"></i> </a>
                                 </div>
                                 <div class="service1__item mb-30 text-center">
                                     <div class="service1__star">
@@ -474,7 +432,7 @@
                                         <h3>ATENCIÓN MÉDICA INMEDIATA</h3>
                                         <p>Cobertura en toda la ciudad de Cúcuta</p>
                                     </div>
-                                    <a href="service-details.html" class="btn6"> <span>Ver más</span> <i class="icofont-rounded-double-right"></i> </a>
+                                    <a href="servicios.php" class="btn6"> <span>Ver más</span> <i class="icofont-rounded-double-right"></i> </a>
                                 </div>
                             </div>
                         </div>
@@ -486,95 +444,8 @@
         <!-- |==========================================| -->
         <section class="blog1 overflow-hidden">
             <div class="blog1__top">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-8 offset-lg-2">
-                            <div class="title2 text-center">
-                                <h2>Nuestro blog</h2>
-                                <p>Podras encontrar información importante para tu salud y la de tu familia</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="blog1__bottom">
-                <div class="blog1__wrapper">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-xl-4 col-md-6">
-                                <div class="blog1__item mb-30">
-                                    <div class="blog1__thumb">
-                                        <img class="img_100" src="assets/img/blog/blog-01.jpg" alt="Blog">
-                                    </div>
-                                    <div class="blog1__content">
-                                        <div class="blog1__data">
-                                            <span>
-                                                <i class="far fa-user"></i>
-                                                <a href="#">Post By: Rt Shuvro</a>
-                                            </span>
-                                            <span>
-                                                <i class="far fa-clone"></i>
-                                                <a href="#">Hospital</a>
-                                            </span>
-                                        </div>
-                                        <h3><a href="#">Why we are the best in the world most popular hospital ever?</a>
-                                        </h3>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xl-4 col-md-6">
-                                <div class="blog1__item mb-30">
-                                    <div class="blog1__thumb">
-                                        <img class="img_100" src="assets/img/blog/blog-02.jpg" alt="Blog">
-                                    </div>
-                                    <div class="blog1__content">
-                                        <div class="blog1__data">
-                                            <span>
-                                                <i class="far fa-user"></i>
-                                                <a href="#">Post By: Rt Shuvro</a>
-                                            </span>
-                                            <span>
-                                                <i class="far fa-clone"></i>
-                                                <a href="#">Medical</a>
-                                            </span>
-                                        </div>
-                                        <h3><a href="#">10 best medical consulting events
-                                                you can join and learn much.</a>
-                                        </h3>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xl-4 col-md-6">
-                                <div class="blog1__item mb-30">
-                                    <div class="blog1__thumb">
-                                        <img class="img_100" src="assets/img/blog/blog-03.jpg" alt="Blog">
-                                    </div>
-                                    <div class="blog1__content">
-                                        <div class="blog1__data">
-                                            <span>
-                                                <i class="far fa-user"></i>
-                                                <a href="#">Post By: Rt Shuvro</a>
-                                            </span>
-                                            <span>
-                                                <i class="far fa-clone"></i>
-                                                <a href="#">Sexual</a>
-                                            </span>
-                                        </div>
-                                        <h3><a href="#">Why we are the best in the world
-                                                most popular hospital ever?</a>
-                                        </h3>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-md-12">
-                                <div class="blog1__btn text-center">
-                                    <a href="blog-2.html" class="btn8">See All Post</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                <div class="container text-center align-middle">
+                    <a href="https://blog.citasmedicas.es/" class="btn3"> <span>NUESTRO BLOG</span> <i class="icofont-rounded-double-right"></i> </a>
                 </div>
             </div>
         </section>
