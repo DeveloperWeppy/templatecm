@@ -76,10 +76,11 @@
                                 <nav id="mobile-menu">
                                     <ul>
                                         <li><a href="index.php">INICIO</a></li>
-                                        <li><a href="nosotros.php">NOSOTROS</a></li>
-                                        <li><a href="servicios.php">SERVICIOS</a></li>
-                                        <li><a href="afiliate.php">AFÍLIATE AHORA</a></li>
-                                        <li><a href="contacto.php">CONTACTANOS</a></li>
+                                        <li><a href="como-funciona.php">¿CÓMO FUNCIONA?</a></li>
+                                        <li><a href="beneficios.php">BENEFICIOS</a></li>
+                                        <li><a href="planes.php">PLANES</a></li>
+                                        <li><a href="blog.citasmedicas.es">BLOG</a></li>
+                                        <li><a href="contacto.php">CONTACTO</a></li>
                                     </ul>
                                 </nav>
                             </div>

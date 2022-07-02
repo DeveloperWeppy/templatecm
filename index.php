@@ -50,7 +50,7 @@
                                         </div>
                                         <div class="mb-20 fix">
                                             <h2 data-animation="fadeInUp" data-delay=".5s" data-duration=".4s" class="animated fadeInUp">
-                                                Un <span>Médico</span> <br class="d-none d-md-inline-block"> Listo Para Atenderte
+                                                CONSULTA MÉDICA DESDE <span>$39.900?</span>
                                             </h2>
                                         </div>
                                         <div class="fix mb-20">
@@ -61,11 +61,9 @@
                                             </p>
                                         </div>
                                         <div class="fix pb-35">
-                                            <a data-animation="fadeInUp" data-delay=".4s" data-duration=".8s" href="services.html" class="btn3 d-inline-block animated fadeInUp mr-10">
-                                                <span>Ver más</span> <i class="icofont-rounded-double-right"></i>
+                                            <a data-animation="fadeInUp" data-delay=".4s" data-duration=".8s" href="planes.php" class="btn3 d-inline-block animated fadeInUp mr-10">
+                                                <span>Suscribete</span> <i class="icofont-rounded-double-right"></i>
                                             </a>
-                                            <a data-fancybox="gallery_1" data-caption="My caption" href="https://youtu.be/8rPB4A3zDnQ" data-animation="fadeInUp" data-delay=".5s" data-duration=".8s" class="btn4 ml-25 animated fadeInUp d-none d-sm-inline-block">
-                                                <span>Ver video</span> <i class="far fa-play-circle"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -75,30 +73,20 @@
                     <div class="slider1__item slider1__height slider1__img-02 d-flex align-items-center justify-content-center">
                         <div class="container">
                             <div class="row">
-                                <div class="col-xl-7">
+                                <div class="col-xl-8">
                                     <div class="slider1__content">
                                         <div class="mb-20 fix">
                                             <h5 data-animation="fadeInUp" data-delay=".2s" data-duration=".4s" class="animated fadeInUp">Citasmedicas.es</h5>
                                         </div>
                                         <div class="mb-20 fix">
-                                            <h2 data-animation="fadeInUp" data-delay=".5s" data-duration=".4s" class="animated fadeInUp">
-                                                Consulta <span>Médica</span> <br class="d-none d-md-inline-block"> En Casa
+                                            <h2 data-animation="fadeInUp" data-delay=".5s" data-duration=".s" class="animated fadeInUp">
+                                                Agendar con especialistas en 1 día?
                                             </h2>
                                         </div>
-                                        <div class="fix mb-20">
-                                            <p data-animation="fadeInUp" data-delay=".7s" data-duration=".4s" class="animated fadeInUp">
-                                                Proteger tu salud desde casa es lo mejor
-                                                <br class="d-none d-md-inline-block">
-                                                ¡Servicio médico a domicilio!
-                                            </p>
-                                        </div>
                                         <div class="fix pb-35">
-                                            <a data-animation="fadeInUp" data-delay=".4s" data-duration=".8s" href="services.html" class="btn3 d-inline-block animated fadeInUp mr-10">
-                                                <span>Ver más</span> <i class="icofont-rounded-double-right"></i>
+                                            <a data-animation="fadeInUp" data-delay=".4s" data-duration=".8s" href="planes.php" class="btn3 d-inline-block animated fadeInUp mr-10">
+                                                <span>Suscribete</span> <i class="icofont-rounded-double-right"></i>
                                             </a>
-                                            <a data-fancybox="gallery_1" data-caption="My caption" href="https://youtu.be/8rPB4A3zDnQ" data-animation="fadeInUp" data-delay=".5s" data-duration=".8s" class="btn4 ml-25 animated fadeInUp d-none d-sm-inline-block">
-                                                <span>Ver
-                                                    Video</span> <i class="far fa-play-circle"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -199,37 +187,96 @@
                         <div class="col-lg-7">
                             <div class="about1__wrapper">
                                 <div class="title1 mb-30">
-                                    <h3>Podras tener acceso a diferentes y mejores servicios; <span>Al mejor precio siempre.</span></h3>
+                                    <h3>¿Qué es citasmedicas.es?</h3>
                                 </div>
                                 <div class="about1__content row">
-                                    <p>Y ademas tendrás descuentos y precios especiales en diferentes categorías como: </p>
-                                    <div class="about1__item mb-65 col-md-6">
-                                        <div class="about1__item--thumb about1__item--bg1">
-                                            <img src="assets/img/png-icon/png-icon-10.png" alt="About">
+                                    <p>Es una plataforma web de pago mensual que conecta suscriptores con los mejores médicos y especialistas de manera inmediata y siempre al mejor precio.
+                                        Además de darte acceso a numerosos convenios, ofertas y precios especiales en otras categorías como: (Ponerlas en 2 columnas acompañadas de iconos)
+                                    </p>
+                                    <div class="w100 text-center">
+                                        <div class="about1__item2  mt-25">
+                                            <h4><img src="assets/img/png-icon/png-icon-10.png" alt="About" class=" mr-10">Salud</h4>
                                         </div>
-                                        <p>Salud</p>
                                     </div>
                                     <div class="about1__item mb-65 col-md-6">
-                                        <div class="about1__item--thumb about1__item--bg2">
-                                            <img src="assets/img/png-icon/png-icon-11.png" alt="About">
-                                        </div>
-                                        <p>Cuidado personal</p>
+                                        <ul class="list-group">
+                                            <li>
+                                                <div class="about1__item2  mt-25">
+                                                    <div class="about1__item--thumb2 about1__item--bg1">
+                                                        <img src="assets/img/png-icon/png-icon-10.png" alt="About">
+                                                    </div>
+                                                    <p>Bienestar y Belleza
+                                                    </p>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="about1__item2  mt-25">
+                                                    <div class="about1__item--thumb2 about1__item--bg1">
+                                                        <img src="assets/img/png-icon/png-icon-10.png" alt="About">
+                                                    </div>
+                                                    <p>Entretenimiento
+                                                    </p>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="about1__item2  mt-25">
+                                                    <div class="about1__item--thumb2 about1__item--bg1">
+                                                        <img src="assets/img/png-icon/png-icon-10.png" alt="About">
+                                                    </div>
+                                                    <p>Gastronomía
+                                                    </p>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="about1__item2  mt-25">
+                                                    <div class="about1__item--thumb2 about1__item--bg1">
+                                                        <img src="assets/img/png-icon/png-icon-10.png" alt="About">
+                                                    </div>
+                                                    <p>Hogar y servicios
+                                                    </p>
+                                                </div>
+                                            </li>
+                                        </ul>
                                     </div>
                                     <div class="about1__item mb-65 col-md-6">
-                                        <div class="about1__item--thumb about1__item--bg2">
-                                            <img src="assets/img/png-icon/png-icon-11.png" alt="About">
-                                        </div>
-                                        <p>Belleza</p>
-                                    </div>
-                                    <div class="about1__item mb-65 col-md-6">
-                                        <div class="about1__item--thumb about1__item--bg2">
-                                            <img src="assets/img/png-icon/png-icon-11.png" alt="About">
-                                        </div>
-                                        <p>Restaurantes</p>
-                                    </div>
-                                    <div class="about1__btn">
-                                        <a href="contacto.php" class="btn3"> <span>SUSCRIBETE YA</span> <i class="icofont-rounded-double-right"></i> </a>
-                                        <a href="nosotros.php" class="btn5 ml-35 d-none d-sm-inline-block">Ver más</a>
+                                        <ul class="list-group">
+                                            <li>
+                                                <div class="about1__item2  mt-25">
+                                                    <div class="about1__item--thumb2 about1__item--bg1">
+                                                        <img src="assets/img/png-icon/png-icon-10.png" alt="About">
+                                                    </div>
+                                                    <p>Servicios
+                                                    </p>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="about1__item2  mt-25">
+                                                    <div class="about1__item--thumb2 about1__item--bg1">
+                                                        <img src="assets/img/png-icon/png-icon-10.png" alt="About">
+                                                    </div>
+                                                    <p>Ropa y accesorios
+                                                    </p>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="about1__item2  mt-25">
+                                                    <div class="about1__item--thumb2 about1__item--bg1">
+                                                        <img src="assets/img/png-icon/png-icon-10.png" alt="About">
+                                                    </div>
+                                                    <p>Salud Animal
+                                                    </p>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="about1__item2  mt-25">
+                                                    <div class="about1__item--thumb2 about1__item--bg1">
+                                                        <img src="assets/img/png-icon/png-icon-10.png" alt="About">
+                                                    </div>
+                                                    <p>Turismo
+                                                    </p>
+                                                </div>
+                                            </li>
+                                        </ul>
                                     </div>
                                 </div>
                             </div>
@@ -240,7 +287,27 @@
         </section>
         <!-- |=====|| About End ||=================| -->
         <!-- |==========================================| -->
-
+        <section class="about5 other_page top-100">
+            <div class="content_box_100">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="about5__wrapper">
+                                <div class="title2 text-center">
+                                    <h2>¿Por qué citas médicas?</h2>
+                                    <p>Sabemos que acceder a servicios de salud suele ser una pesadilla, el sistema de salud público es un caos y las pólizas de medicina prepagada están por las nubes, a demás del calvario para conseguir una cita médica o con especialista puede tardar más de 15 días o incluso meses.
+                                        Por eso…
+                                        En Citas Médicas hemos diseñado una serie de convenios para que tengas acceso a los mejores médicos y especialistas con el mejor precio siempre a través de una membresía para ti y los tuyos.
+                                        Llegamos para transformar la manera en que accedes a servicios de salud
+                                    </p>
+                                    <a href="planes.php" class="btn8">Suscribete</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
 
         <!-- |==========================================| -->
         <!-- |=====|| Service Start ||===============| -->
@@ -537,7 +604,7 @@
                                     </div>
                                 </div>
                                 <h3>Llamanos</h3>
-                                <h4>+57 318 372 27 11</h4>
+                                <h4>+57 318 372 27 11 </h4>
                                 <p class="m-0">Los mejores especialistas, exámenes diagnósticos, equipos médicos y medicamentos con tarifas y descuentos preferenciales, para ti, tu familia y tu grupo de trabajo </p>
                             </div>
                         </div>

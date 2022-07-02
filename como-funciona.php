@@ -5,7 +5,7 @@
     <!-- Required Meta Tags Start -->
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>HounLare - Medical & Health Care Services HTML5 Template</title>
+    <title>¿Cómo funciona?</title>
     <meta name="description" content="">
     <meta name="keywords" content="">
     <meta name="author" content="">
@@ -46,11 +46,11 @@
                     <div class="row">
                         <div class="col-lg-12">
                             <div class="page_title__content">
-                                <h1>Nosotros</h1>
+                                <h1>¿Cómo funciona?</h1>
                                 <div class="page_title__bread-crumb">
                                     <ul>
                                         <li><a href="index.php">Inicio</a></li>
-                                        <li><a href="nosotros.php">Nosotros</a></li>
+                                        <li><a href="nosotros.php">Cómo funciona?</a></li>
                                     </ul>
                                 </div>
                             </div>

@@ -5,7 +5,7 @@
     <!-- Required Meta Tags Start -->
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Servicios - citasmédcas</title>
+    <title>Beneficios</title>
     <meta name="description" content="">
     <meta name="keywords" content="">
     <meta name="author" content="">
@@ -47,11 +47,11 @@
                     <div class="row">
                         <div class="col-lg-12">
                             <div class="page_title__content">
-                                <h1>Servicios</h1>
+                                <h1>BENEFICIOS</h1>
                                 <div class="page_title__bread-crumb">
                                     <ul>
                                         <li><a href="index.php">Inicio</a></li>
-                                        <li><a href="servicios.php">Servicios</a></li>
+                                        <li><a href="beneficios.php">Beneficios</a></li>
                                     </ul>
                                 </div>
                             </div>
