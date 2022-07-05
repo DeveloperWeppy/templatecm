@@ -91,7 +91,7 @@
                     <div class="row">
                         <div class="col-lg-8 offset-lg-2">
                             <div class="title2 mb-60 text-center mt-50">
-                                <h2>How we works?</h2>
+                                <h2>¿Cómo funciona?</h2>
                             </div>
                         </div>
                     </div>
