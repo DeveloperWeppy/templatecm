@@ -53,6 +53,7 @@
                                         <li><a href="nosotros.php">Cómo funciona?</a></li>
                                     </ul>
                                 </div>
+                                <h3></h3>
                             </div>
                         </div>
                     </div>
@@ -61,8 +62,94 @@
         </section>
         <!-- |=====|| Page Title End ||=================| -->
         <!-- |==========================================| -->
-
-
+        <!-- |==========================================| -->
+        <!-- |=====|| Counter Start ||===============| -->
+        <section class="counter2">
+            <div class="content_box_100_50">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-12 col-lg-12">
+                            <div class="mb-50 text-center">
+                                <h3 class="white">Llegamos para transformar la manera en que accedes a servicios de salud</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- |=====|| Counter End ||=================| -->
+        <!-- |==========================================| -->
+        <section class="working_process1">
+            <div class="working_process1__thumb1">
+                <img class="img_100" src="assets/img/png-img/png-img-04.png" alt="Image">
+            </div>
+            <div class="working_process1__thumb2">
+                <img class="img_100" src="assets/img/png-img/png-img-05.png" alt="Image">
+            </div>
+            <div class="content_box_pob_100">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 offset-lg-2">
+                            <div class="title2 mb-60 text-center mt-50">
+                                <h2>How we works?</h2>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xl-3 col-lg-4 col-sm-6">
+                            <div class="working_process1__item text-center mb-30">
+                                <div class="working_process1__thumb mb-30">
+                                    <img src="assets/img/service/service-01.jpg" alt="Service">
+                                </div>
+                                <div class="working_process1__content">
+                                    <h3>Selecciona la suscripción de tu preferencia</h3>
+                                    <p class="m-0">Escoge tu plan y realiza el proceso de suscripción 100% en Línea, Paga seguro a través de Mercado pago y activa tu código de suscripción.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-3 col-lg-4 col-sm-6">
+                            <div class="working_process1__item text-center mb-30">
+                                <div class="working_process1__thumb mb-30">
+                                    <img src="assets/img/service/service-02.jpg" alt="Service">
+                                </div>
+                                <div class="working_process1__content">
+                                    <h3>Accedes a tu directorio de beneficios en salud y otras categorías</h3>
+                                    <p class="m-0">Navega en nuestro directorio de Convenios por categoría para revisar las promociones, tarifas especiales y los beneficios de nuestros aliados.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-3 col-lg-4 col-sm-6">
+                            <div class="working_process1__item text-center mb-30">
+                                <div class="working_process1__thumb mb-30">
+                                    <img src="assets/img/service/service-03.jpg" alt="Service">
+                                </div>
+                                <div class="working_process1__content">
+                                    <h3>Encuentras el prestador y el servicio o producto de tu interés.
+                                    </h3>
+                                    <p class="m-0">Encontrarás los detalles del convenio y los medios de contacto de nuestro aliado para que gestiones la prestación del servicio.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-3 col-lg-4 col-sm-6">
+                            <div class="working_process1__item text-center mb-30">
+                                <div class="working_process1__thumb mb-30">
+                                    <img src="assets/img/service/service-04.jpg" alt="Service">
+                                </div>
+                                <div class="working_process1__content">
+                                    <h3> Te acercas con tu código de suscripción para redimir tus beneficios.</h3>
+                                    <p class="m-0">Al llegar a donde nuestro aliado, solo debes mencionar que vienes de citasmedicas.es, y con tu cédula (código de suscripción) podrás redimir tus beneficios.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- |=====|| Working Process End ||=================| -->
+        <!-- |==========================================| -->
         <!-- |==========================================| -->
         <!-- |=====|| About Start ||===============| -->
         <section class="about4">

@@ -308,6 +308,52 @@
                 </div>
             </div>
         </section>
+        <!-- |==========================================| -->
+        <!-- |=====|| About Start ||===============| -->
+        <section class="about3">
+            <div class="content_box_100">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xl-6">
+                            <div class="about3__left-area">
+                                <div class="about3__thumb">
+                                    <img src="assets/img/about/about-11.jpg" alt="About">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-6">
+                            <div class="about3__right-area">
+                                <div class="title1 mb-30">
+                                    <h4><span>¿Cómo</span> funciona?</h4>
+                                    <h3>Acceder a los beneficios que tiene Citas Médicas para ti es muy fácil.</h3>
+                                </div>
+                                <div class="about3__content">
+                                    <ul class="list-group">
+                                        <li>
+                                            <div class="about1__item3">
+                                                <p>1. Selecciona la suscripción de tu preferencia</p>
+                                                <p>2. Accedes a tu directorio de beneficios en salud y otras categorías</p>
+                                                <p>3. Seleccionas el prestador y el servicio o producto de tu interés</p>
+                                                <p>4. Te acercas con tu código de suscripción para redimir tus beneficios</p>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                    <div class="about3__content">
+                                        <h4 class="listo">¡Y listo! Es así de fácil.</h4>
+                                    </div>
+                                    <div class="fix">
+                                        <a href="planes.php" class="btn3 d-inline-block animated fadeInUp">
+                                            <span>Suscribete</span> <i class="icofont-rounded-double-right"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
 
         <!-- |==========================================| -->
         <!-- |=====|| Service Start ||===============| -->
@@ -317,8 +363,7 @@
                     <div class="row">
                         <div class="col-lg-10 offset-lg-1">
                             <div class="title2 mb-60 text-center">
-                                <h4>Planes</h4>
-                                <h2>Empieza a vivir una mejor experiencia de salud</h2>
+                                <h2>Nuestros Planes</h2>
                             </div>
                         </div>
                     </div>
@@ -390,141 +435,16 @@
             </div>
         </section>
         <!-- |==========================================| -->
-        <!-- |=====|| Counter Start ||===============| -->
-        <section class="counter1 counter1__bg-01">
-            <div class="content_box_100_50">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-8 offset-lg-2">
-                            <div class="title2 mb-55 text-center">
-                                <h4>Tenemos</h4>
-                                <h2>Muchos beneficios para tí y tu familia</h2>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-xl-3 col-sm-6">
-                            <div class="counter1__item text-center mb-50">
-                                <div class="counter1__thumb">
-                                    <i class="flaticon-doctor"></i>
-                                </div>
-                                <div class="counter1__content">
-                                    <h4 class="m-0">Atención priorizada</h4>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-3 col-sm-6">
-                            <div class="counter1__item text-center mb-50">
-                                <div class="counter1__thumb">
-                                    <i class="flaticon-ambulance"></i>
-                                </div>
-                                <div class="counter1__content">
-                                    <h4 class="m-0">Especialistas calificados</h4>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-3 col-sm-6">
-                            <div class="counter1__item text-center mb-50">
-                                <div class="counter1__thumb">
-                                    <i class="flaticon-patient"></i>
-                                </div>
-                                <div class="counter1__content">
-                                    <h4 class="m-0">Sin trámites</h4>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-3 col-sm-6">
-                            <div class="counter1__item text-center mb-50">
-                                <div class="counter1__thumb">
-                                    <i class="flaticon-medical-report"></i>
-                                </div>
-                                <div class="counter1__content">
-                                    <h4 class="m-0">Atención en Línea</h4>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- |=====|| Counter End ||=================| -->
-        <!-- |==========================================| -->
-        <section class="service1">
-            <div class="content_box_100">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-8 offset-lg-2">
-                            <div class="title2 mb-45 text-center">
-                                <h2>Tendras acceso a</h2>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-12">
-                            <div class="service1__carousel owl-carousel">
-                                <div class="service1__item mb-30 text-center">
-                                    <div class="service1__star">
-                                        <i class="far fa-star"></i>
-                                    </div>
-                                    <div class="service1__thumb">
-                                        <img src="assets/img/png-icon/png-icon-12.png" alt="Image">
-                                    </div>
-                                    <div class="service1__content mb-40">
-                                        <h3>MÉDICOS ESPECIALISTAS</h3>
-                                        <p>Aquí encuentras el servicio que necesitas</p>
-                                    </div>
-                                    <a href="servicios.php" class="btn6"> <span>Ver más</span> <i class="icofont-rounded-double-right"></i> </a>
-                                </div>
-                                <div class="service1__item mb-30 text-center">
-                                    <div class="service1__star">
-                                        <i class="far fa-star"></i>
-                                    </div>
-                                    <div class="service1__thumb">
-                                        <img src="assets/img/png-icon/png-icon-13.png" alt="Image">
-                                    </div>
-                                    <div class="service1__content mb-40">
-                                        <h3>EXÁMENES DIAGNÓSTICOS</h3>
-                                        <p>Toma preferencial de muestras y radiografías</p>
-                                    </div>
-                                    <a href="servicios.php" class="btn6"> <span>Ver más</span> <i class="icofont-rounded-double-right"></i> </a>
-                                </div>
-                                <div class="service1__item mb-30 text-center">
-                                    <div class="service1__star">
-                                        <i class="far fa-star"></i>
-                                    </div>
-                                    <div class="service1__thumb">
-                                        <img src="assets/img/png-icon/png-icon-14.png" alt="Image">
-                                    </div>
-                                    <div class="service1__content mb-40">
-                                        <h3>ATENCIÓN MÉDICA INMEDIATA</h3>
-                                        <p>Cobertura en toda la ciudad de Cúcuta</p>
-                                    </div>
-                                    <a href="servicios.php" class="btn6"> <span>Ver más</span> <i class="icofont-rounded-double-right"></i> </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- |=====|| Service End ||=================| -->
-        <!-- |==========================================| -->
-        <section class="blog1 overflow-hidden">
-            <div class="blog1__top">
-                <div class="container text-center align-middle">
-                    <a href="https://blog.citasmedicas.es/" class="btn3"> <span>NUESTRO BLOG</span> <i class="icofont-rounded-double-right"></i> </a>
-                </div>
-            </div>
-        </section>
-        <!-- |=====|| Blog End ||=================| -->
-        <!-- |==========================================| -->
-        <!-- |==========================================| -->
         <!-- |=====|| Client Start ||===============| -->
         <section class="client1">
-            <h3 class="hidden">Client Section</h3>
             <div class="content_box_100">
                 <div class="container">
                     <div class="row">
+                        <div class="col-lg-10 offset-lg-1">
+                            <div class="title2 mb-45 text-center">
+                                <h2>Nuestros aliados</h2>
+                            </div>
+                        </div>
                         <div class="col-md-12">
                             <div class="client1__active owl-carousel">
                                 <div class="client1__item d-flex justify-content-center align-items-center">
@@ -590,6 +510,17 @@
         </section>
         <!-- |=====|| Client End ||=================| -->
         <!-- |==========================================| -->
+        <!-- |==========================================| -->
+        <section class="blog1 overflow-hidden">
+            <div class="blog1__top">
+                <div class="container text-center align-middle">
+                    <a href="https://blog.citasmedicas.es/" class="btn3"> <span>NUESTRO BLOG</span> <i class="icofont-rounded-double-right"></i> </a>
+                </div>
+            </div>
+        </section>
+        <!-- |=====|| Blog End ||=================| -->
+        <!-- |==========================================| -->
+
         <!-- |==========================================| -->
         <!-- |=====|| Contact Start ||===============| -->
         <section class="contact1">
