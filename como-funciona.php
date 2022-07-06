@@ -293,6 +293,13 @@
         </section>
         <!-- |=====|| Testimonial End ||=================| -->
         <!-- |==========================================| -->
+        <section class="suscribeteya overflow-hidden">
+            <div>
+                <div class="container text-center align-middle">
+                    <a href="https://citasmedicas.es/planes.php" class="btn6 btn6-2"> <span>SUSCRIBETE YA!</span> <i class="icofont-rounded-double-right"></i> </a>
+                </div>
+            </div>
+        </section>
         <!-- |==========================================| -->
         <!-- |=====|| FAQ Start ||===============| -->
         <section class="faq1">
@@ -303,7 +310,7 @@
                     <div class="row">
                         <div class="col-xl-6 offset-xl-6">
                             <div class="faq1__wrapper">
-                                <h3>What is your question in mind?</h3>
+                                <h3>Preguntas frecuentes</h3>
                                 <!-- accordion -->
                                 <div class="accordion_style_01 mb-40">
                                     <div class="accordion" id="accordionExample">
@@ -375,7 +382,7 @@
                                     </div>
                                 </div>
                                 <!-- accordion -->
-                                <a href="about-us.html" class="btn3"> <span>More Information <span>Is Here</span></span> <i class="icofont-rounded-double-right"></i> </a>
+                                <a href="about-us.html" class="btn3"> <span>Miralas todas <span>aquí</span></span> <i class="icofont-rounded-double-right"></i> </a>
                             </div>
                         </div>
                     </div>
@@ -383,56 +390,6 @@
             </div>
         </section>
         <!-- |=====|| FAQ End ||=================| -->
-        <!-- |==========================================| -->
-        <!-- |==========================================| -->
-        <!-- |=====|| Contact Start ||===============| -->
-        <section class="contact1">
-            <div class="content_box_100">
-                <div class="container">
-                    <div class="row no-gutters">
-                        <div class="col-lg-5">
-                            <div class="contact1__info text-center">
-                                <div class="contact1__thumb-wrapper">
-                                    <div class="contact1__thumb">
-                                        <img src="assets/img/png-icon/png-icon-20.png" alt="Image">
-                                    </div>
-                                </div>
-                                <h3>Emergency call</h3>
-                                <h4>+273-649300</h4>
-                                <p class="m-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                                    tempor incididunt ut labore et dolore magna aliqua. cumsan lacus vel facilisis. </p>
-                            </div>
-                        </div>
-                        <div class="col-lg-7">
-                            <div class="contact_page2__form">
-                                <h3>Get appointment</h3>
-                                <form id="contact-form" action="assets/php/mail.php" method="POST">
-                                    <div class="row mb-20">
-                                        <div class="col-xl-6">
-                                            <input class="form-control" type="text" name="name" placeholder="Full name *" required>
-                                        </div>
-                                        <div class="col-xl-6">
-                                            <input class="form-control" type="text" name="phone-number" placeholder="Your phone *">
-                                        </div>
-                                        <div class="col-xl-12">
-                                            <input class="form-control" type="text" name="subject" placeholder="I’m interested in *">
-                                        </div>
-                                        <div class="col-xl-12">
-                                            <input class="form-control" type="email" name="email" placeholder="Your email *" required>
-                                        </div>
-                                        <div class="col-xl-12">
-                                            <button type="submit" class="btn8">Send Us</button>
-                                        </div>
-                                    </div>
-                                    <p class="form-message"></p>
-                                </form>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- |=====|| Contact End ||=================| -->
         <!-- |==========================================| -->
     </main>
 

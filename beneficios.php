@@ -41,7 +41,7 @@
     <main>
         <!-- |==========================================| -->
         <!-- |=====|| Page Title Start ||===============| -->
-        <section class="page_title page_title__img-05">
+        <section class="page_title page_title__img-01">
             <div class="page_title__padding">
                 <div class="container">
                     <div class="row">
@@ -63,102 +63,205 @@
         <!-- |=====|| Page Title End ||=================| -->
         <!-- |==========================================| -->
 
-
-        <!-- |==========================================| -->
-        <!-- |=====|| Service Start ||===============| -->
-        <section class="service1 other_page">
-            <div class="content_box_100">
+        <section class="counter2">
+            <div class="content_box_100_50">
                 <div class="container">
                     <div class="row">
-                        <div class="col-lg-10 offset-lg-1">
-                            <div class="title2 mb-45 text-center">
-                                <h4>Trusted service</h4>
-                                <h2>We’re launched most powerful treatment system. They are <span>making
-                                        beautifully</span>.</h2>
-                                <p>Why HounLare services is best all time since 1990. desires to obtain of itself,
-                                    because it is pain, but because <br class="d-none d-xl-inline-block"> occasionally
-                                    circumstance procure him some great
-                                    deals. </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-12">
-                            <div class="service1__carousel owl-carousel">
-                                <div class="service1__item mb-30 text-center">
-                                    <div class="service1__star">
-                                        <i class="far fa-star"></i>
-                                    </div>
-                                    <div class="service1__thumb">
-                                        <img src="assets/img/png-icon/png-icon-12.png" alt="Image">
-                                    </div>
-                                    <div class="service1__content mb-40">
-                                        <h3>Primary Health Care</h3>
-                                        <p>We are line of Lorem Ipsum, Lorem ipsum dolor sit amet. comes from line in
-                                            section.</p>
-                                    </div>
-                                    <a href="#" class="btn6"> <span>View Details</span> <i class="icofont-rounded-double-right"></i> </a>
-                                </div>
-                                <div class="service1__item mb-30 text-center">
-                                    <div class="service1__star">
-                                        <i class="far fa-star"></i>
-                                    </div>
-                                    <div class="service1__thumb">
-                                        <img src="assets/img/png-icon/png-icon-13.png" alt="Image">
-                                    </div>
-                                    <div class="service1__content mb-40">
-                                        <h3>Gyneological Clinic</h3>
-                                        <p>We are line of Lorem Ipsum, Lorem ipsum dolor sit amet. comes from line in
-                                            section.</p>
-                                    </div>
-                                    <a href="#" class="btn6"> <span>View Details</span> <i class="icofont-rounded-double-right"></i> </a>
-                                </div>
-                                <div class="service1__item mb-30 text-center">
-                                    <div class="service1__star">
-                                        <i class="far fa-star"></i>
-                                    </div>
-                                    <div class="service1__thumb">
-                                        <img src="assets/img/png-icon/png-icon-14.png" alt="Image">
-                                    </div>
-                                    <div class="service1__content mb-40">
-                                        <h3>Precise Diagnosis</h3>
-                                        <p>We are line of Lorem Ipsum, Lorem ipsum dolor sit amet. comes from line in
-                                            section.</p>
-                                    </div>
-                                    <a href="#" class="btn6"> <span>View Details</span> <i class="icofont-rounded-double-right"></i> </a>
-                                </div>
-                                <div class="service1__item mb-30 text-center">
-                                    <div class="service1__star">
-                                        <i class="far fa-star"></i>
-                                    </div>
-                                    <div class="service1__thumb">
-                                        <img src="assets/img/png-icon/png-icon-13.png" alt="Image">
-                                    </div>
-                                    <div class="service1__content mb-40">
-                                        <h3>Cardiac Clinic</h3>
-                                        <p>We are line of Lorem Ipsum, Lorem ipsum dolor sit amet. comes from line in
-                                            section.</p>
-                                    </div>
-                                    <a href="#" class="btn6"> <span>View Details</span> <i class="icofont-rounded-double-right"></i> </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-12 text-center">
-                            <div class="service1__bottom-text">
-                                <p>Join Our conference & events know more us also be careful myself <a href="contact.html">Join us
-                                        here</a></p>
+                        <div class="col-sm-12 col-lg-12">
+                            <div class="mb-50 text-center">
+                                <h3 class="white">Beneficios, beneficios, por donde mires, Citas médicas son beneficios.</h3>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
-        <!-- |=====|| Service End ||=================| -->
         <!-- |==========================================| -->
 
-
+        <section class="service1 other_page">
+            <div class="box text-center pt-100 pb-100">
+                <h2>Encuentra múltiples beneficios en las siguientes categorías. </h2>
+                <div class="center row pt-50 pl-30p pr-30p">
+                    <div class="w100 text-center">
+                        <div class="about1__item2  mb-25">
+                            <h4><img src="assets/img/png-icon/salud.png" alt="About" class=" mr-10">Salud</h4>
+                        </div>
+                    </div>
+                    <div class="left col-md-6 w-25">
+                        <ul class="list-group">
+                            <li>
+                                <div class="about1__item2  mt-25">
+                                    <div class="about1__item--thumb2 about1__item--bg1">
+                                        <img src="assets/img/png-icon/bienestar-y-belleza.png" alt="About">
+                                    </div>
+                                    <p>Bienestar y Belleza
+                                    </p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="about1__item2  mt-25">
+                                    <div class="about1__item--thumb2 about1__item--bg1">
+                                        <img src="assets/img/png-icon/entretenimiento.png" alt="About">
+                                    </div>
+                                    <p>Entretenimiento
+                                    </p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="about1__item2  mt-25">
+                                    <div class="about1__item--thumb2 about1__item--bg1">
+                                        <img src="assets/img/png-icon/gastronomía.png" alt="About">
+                                    </div>
+                                    <p>Gastronomía
+                                    </p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="about1__item2  mt-25">
+                                    <div class="about1__item--thumb2 about1__item--bg1">
+                                        <img src="assets/img/png-icon/hogar-y-servicios.png" alt="About">
+                                    </div>
+                                    <p>Hogar y servicios
+                                    </p>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="right col-md-6">
+                        <ul class="list-group">
+                            <li>
+                                <div class="about1__item2  mt-25">
+                                    <div class="about1__item--thumb2 about1__item--bg1">
+                                        <img src="assets/img/png-icon/servicios.png" alt="About">
+                                    </div>
+                                    <p>Servicios
+                                    </p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="about1__item2  mt-25">
+                                    <div class="about1__item--thumb2 about1__item--bg1">
+                                        <img src="assets/img/png-icon/ropa-y-accesorios.png" alt="About">
+                                    </div>
+                                    <p>Ropa y accesorios
+                                    </p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="about1__item2  mt-25">
+                                    <div class="about1__item--thumb2 about1__item--bg1">
+                                        <img src="assets/img/png-icon/salud-animal.png" alt="About">
+                                    </div>
+                                    <p>Salud Animal
+                                    </p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="about1__item2  mt-25">
+                                    <div class="about1__item--thumb2 about1__item--bg1">
+                                        <img src="assets/img/png-icon/turismo.png" alt="About">
+                                    </div>
+                                    <p>Turismo
+                                    </p>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="bg-1 other_page">
+            <div class="content_box_100">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="about5__wrapper">
+                                <div class="title2 text-center">
+                                    <h2 class="text-white">¿Quieres acceder a estos beneficios?</h2>
+                                    <a href="planes.php" class="btn6 mt-10">Suscribete</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- |==========================================| -->
+        <!-- |=====|| Client Start ||===============| -->
+        <section class="client1">
+            <div class="content_box_100">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-10 offset-lg-1">
+                            <div class="title2 mb-45 text-center">
+                                <h2>Nuestros aliados</h2>
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="client1__active owl-carousel">
+                                <div class="client1__item d-flex justify-content-center align-items-center">
+                                    <div class="client1__thumb">
+                                        <a href="#"><img src="assets/img/client/c1.png" alt="Client"></a>
+                                    </div>
+                                </div>
+                                <div class="client1__item d-flex justify-content-center align-items-center">
+                                    <div class="client1__thumb">
+                                        <a href="#"><img src="assets/img/client/c2.png" alt="Client"></a>
+                                    </div>
+                                </div>
+                                <div class="client1__item d-flex justify-content-center align-items-center">
+                                    <div class="client1__thumb">
+                                        <a href="#"><img src="assets/img/client/c3.png" alt="Client"></a>
+                                    </div>
+                                </div>
+                                <div class="client1__item d-flex justify-content-center align-items-center">
+                                    <div class="client1__thumb">
+                                        <a href="#"><img src="assets/img/client/c4.png" alt="Client"></a>
+                                    </div>
+                                </div>
+                                <div class="client1__item d-flex justify-content-center align-items-center">
+                                    <div class="client1__thumb">
+                                        <a href="#"><img src="assets/img/client/c5.png" alt="Client"></a>
+                                    </div>
+                                </div>
+                                <div class="client1__item d-flex justify-content-center align-items-center">
+                                    <div class="client1__thumb">
+                                        <a href="#"><img src="assets/img/client/c6.png" alt="Client"></a>
+                                    </div>
+                                </div>
+                                <div class="client1__item d-flex justify-content-center align-items-center">
+                                    <div class="client1__thumb">
+                                        <a href="#"><img src="assets/img/client/c7.png" alt="Client"></a>
+                                    </div>
+                                </div>
+                                <div class="client1__item d-flex justify-content-center align-items-center">
+                                    <div class="client1__thumb">
+                                        <a href="#"><img src="assets/img/client/c8.png" alt="Client"></a>
+                                    </div>
+                                </div>
+                                <div class="client1__item d-flex justify-content-center align-items-center">
+                                    <div class="client1__thumb">
+                                        <a href="#"><img src="assets/img/client/c9.png" alt="Client"></a>
+                                    </div>
+                                </div>
+                                <div class="client1__item d-flex justify-content-center align-items-center">
+                                    <div class="client1__thumb">
+                                        <a href="#"><img src="assets/img/client/c10.png" alt="Client"></a>
+                                    </div>
+                                </div>
+                                <div class="client1__item d-flex justify-content-center align-items-center">
+                                    <div class="client1__thumb">
+                                        <a href="#"><img src="assets/img/client/c11.png" alt="Client"></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- |=====|| Client End ||=================| -->
+        <!-- |==========================================| -->
         <!-- |==========================================| -->
         <!-- |=====|| Service Start ||===============| -->
         <section class="service3 other_page">

@@ -39,7 +39,7 @@
                     <div class="header__middle1--right text-right">
 
                         <div class="header__middle1--btn">
-                            <a href="contacto.php" class="btn2">SUSCRIBIRSE</a>
+                            <a href="contacto.php" class="btn2">SUSCRIBETE</a>
                         </div>
                     </div>
                 </div>

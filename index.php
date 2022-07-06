@@ -187,7 +187,7 @@
                                 </div>
                                 <div class="about1__content row">
                                     <p>Es una plataforma web de pago mensual que conecta suscriptores con los mejores médicos y especialistas de manera inmediata y siempre al mejor precio.
-                                        Además de darte acceso a numerosos convenios, ofertas y precios especiales en otras categorías como: (Ponerlas en 2 columnas acompañadas de iconos)
+                                        Además de darte acceso a numerosos convenios, ofertas y precios especiales en otras categorías como:
                                     </p>
                                     <div class="w100 text-center">
                                         <div class="about1__item2  mt-25">
@@ -296,7 +296,7 @@
                                         En Citas Médicas hemos diseñado una serie de convenios para que tengas acceso a los mejores médicos y especialistas con el mejor precio siempre a través de una membresía para ti y los tuyos.
                                         Llegamos para transformar la manera en que accedes a servicios de salud
                                     </p>
-                                    <a href="#" class="btn6 mt-30">Suscribirme</a>
+                                    <a href="planes.php" class="btn6 mt-30">Suscribete</a>
                                 </div>
                             </div>
                         </div>
@@ -313,7 +313,7 @@
                         <div class="col-xl-6">
                             <div class="about3__left-area">
                                 <div class="about3__thumb">
-                                    <img src="assets/img/about/about-11.jpg" alt="About">
+                                    <img src="assets/img/about/beneficios-citas-medicas.webp" alt="About">
                                 </div>
                             </div>
                         </div>
@@ -350,15 +350,14 @@
                 </div>
             </div>
         </section>
-
         <!-- |==========================================| -->
         <!-- |=====|| Service Start ||===============| -->
         <section class="pricing1 counter1__bg-01">
-            <div class="content_box_100">
-                <div class="container">
+            <div class="content_box_10">
+                <div class="container pb-60">
                     <div class="row">
                         <div class="col-lg-10 offset-lg-1">
-                            <div class="title2 mb-60 text-center">
+                            <div class="title2 mt-60 text-center">
                                 <h2>Nuestros Planes</h2>
                             </div>
                         </div>
