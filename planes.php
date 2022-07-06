@@ -34,7 +34,7 @@
     <?php
     include('header.php');
     ?>
-    <section class="page_title page_title__img-05">
+    <section class="page_title page_title__img-01">
             <div class="page_title__padding">
                 <div class="container">
                     <div class="row">
